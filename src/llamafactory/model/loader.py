@@ -197,6 +197,24 @@ def load_model(
             model.load_state_dict(vhead_params, strict=False)
             logger.info_rank0(f"Loaded valuehead from checkpoint: {vhead_path}")
 
+    # add medusa mtp wrapper
+    if model_args.use_medusa_mtp:
+        try:
+            from .medusa.medusa_model_legacy import MedusaModel, MedusaConfig
+            # freeze base model
+            for param in model.base_model.parameters():
+                param.requires_grad = False
+            # add medusa wrapper
+            medusa_lm_head = MedusaModel(
+                model,
+                medusa_num_heads=model_args.medusa_num_heads,
+                medusa_num_layers=model_args.medusa_num_layers,
+                base_model_name_or_path=model_args.model_name_or_path, # type: ignore
+            )
+            logger.info_rank0("Wrapped model with Medusa MTPWrapper.")            
+        except ImportError:
+            raise ImportError("Please install Medusa to use Medusa MTP features.")
+            
     if not is_trainable:
         model.requires_grad_(False)
         for param in model.parameters():
