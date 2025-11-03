@@ -1,0 +1,5188 @@
+[
+  {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "你觉得就是现在金融经济对咱们是了解的多吗？"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "就是咱们现在工作交的保险都有什么险？ 现在咱们交的就什么险？"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯。 交这个保险可能就是为了一些社会保障，那个住房公积金和养老保险都可以 将那个交的人儿受益，还有那个一些 一些别的险。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯。 对，他一下子。"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1012_S0004_0/G0019/seg_0000_12.087-19.270.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0004_0/G0019/seg_0001_29.652-43.900.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0004_0/G0019/seg_0002_69.590-80.238.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "对，首付啥的都能出来。 还有就是买房儿那个贷款，贷款一下儿。 贷款现在具体我没太了解，贷款是需要你有一些固定资产吧才能贷还是怎么贷？"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "啊，还 嗯，贷款已经。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯，还有那种金额儿比较大的贷款，就需要你有点儿固定资产，有点儿房，有点儿车，能抵押的。"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1012_S0004_0/G0019/seg_0003_81.317-85.244.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0004_0/G0019/seg_0004_102.260-109.574.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0004_0/G0019/seg_0005_110.966-113.428.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "还有最现实的。 现在除了买车儿买房儿贷款，还有什么需要贷款的才能这种大金额儿对正常人儿有用的吗？"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯。 呃，现在这个， 现在这个网上各种那个借贷也不算借贷软件儿吧，就是那种，"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯，就是现在我看过最近的消息特别多的那种，就是所有说所有的那种借贷的软件儿都要取消啦，因为觉得可能影响不太好吧，就全都要取消。"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1012_S0004_0/G0019/seg_0006_123.710-126.759.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0004_0/G0019/seg_0007_141.470-154.660.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0004_0/G0019/seg_0008_167.750-171.310.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯。 贷款，就是现在这种软件儿特别多，有的年轻人自控力不足的，就是这个借那个还。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯。 还有现在"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯，别信就行，还有那种借大额儿贷的校园贷，就一旦借了还不上就已经就是说只能是通过家里。"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1012_S0004_0/G0019/seg_0009_186.470-191.920.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0004_0/G0019/seg_0010_213.590-225.031.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0004_0/G0019/seg_0011_226.342-228.966.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "那种， 还有那种就是直接借你大额儿的，完也不要啥你的资产，就是利率就是一天那个利息特别特别高那种。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "你看 肯定压力特别大，就是还有除了贷款，还有那种信用卡，现在那个去办信用卡给福利的活动特别多。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯，银行为了促进那个自己自己家银行的那个品牌的那个效益。"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1012_S0004_0/G0019/seg_0012_237.260-238.989.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0004_0/G0019/seg_0013_253.520-259.690.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0004_0/G0019/seg_0014_272.150-281.290.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯。 对。 嗯，现在保险还有那种车的险，就是还有人身的险，就是不是公司交的，就是在社会社区上买买的那种保险。"
+      },
+      {
+        "role": "user",
+        "content": "<audio><audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯。 就是最近咱们东北这边儿不是下大雨了嘛，就车就车都泡水。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯。"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1012_S0004_0/G0019/seg_0015_321.197-332.650.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0004_0/G0019/seg_0016_347.090-348.850.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0004_0/G0019/seg_0017_350.037-356.710.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0004_0/G0019/seg_0018_375.984-381.212.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯，还有那种早期就是咱们父母那种买的那种什么各种各样儿五花八门儿险。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯。 对，我再给你一一 嗯，还有那种就是你，就是小时候儿给你交，完了大了之后就定期就是到你到多少岁了完给你一笔。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯。 还有这个咱们开工资交的那种税，就是工资开的税，他有前儿那个有一个软件儿叫个人所得税，它有前儿每年可能给你退点儿钱。"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1012_S0004_0/G0019/seg_0019_381.717-383.830.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0004_0/G0019/seg_0020_401.239-414.190.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0004_0/G0019/seg_0021_426.229-431.770.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio><audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯，交给"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯。 对对对，还有那种就是农村的那种医保儿啊，都是通过就是各个企业这个人工资交的税，呃，给国家了，完了国家再给公民。"
+      },
+      {
+        "role": "user",
+        "content": "<audio><audio><audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "就是一个中国公民，这是应该做的一个事儿。"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1012_S0004_0/G0019/seg_0022_448.872-450.210.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0004_0/G0019/seg_0023_450.846-455.920.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0004_0/G0019/seg_0024_456.630-462.340.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0004_0/G0019/seg_0025_476.435-477.310.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0004_0/G0019/seg_0026_478.295-480.200.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0004_0/G0019/seg_0027_481.084-482.170.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "还有就是那明星就赚非常大额儿的钱，就是那种税扣的非常多，都有想尽办法逃税的。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯，对，这一旦查出来"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1012_S0004_0/G0019/seg_0028_487.190-487.810.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0004_0/G0019/seg_0029_503.187-506.231.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0004_0/G0019/seg_0030_506.775-511.290.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio><audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "对。 还有就是，嗯"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "还有就是，咱们 那前儿交的那种各种那个补贴，还有那个公司有补贴。"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1012_S0004_0/G0019/seg_0031_512.318-513.023.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0004_0/G0019/seg_0032_513.516-516.961.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0004_0/G0019/seg_0033_517.669-521.530.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0004_0/G0019/seg_0034_526.447-527.020.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "还有住房儿那补儿，还有那个交通，你天天上下班儿，就是通勤的可能给你报一些些。"
+      },
+      {
+        "role": "user",
+        "content": "<audio><audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯。 嗯，还有那种在外边儿高温，就是那种工人，它给一种高温补贴，或者到什么季节，像外卖员儿那种就是恶性儿的天气，它都会有补贴。"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1012_S0004_0/G0019/seg_0035_543.260-549.073.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0004_0/G0019/seg_0036_550.264-553.345.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0004_0/G0019/seg_0037_563.150-563.800.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0004_0/G0019/seg_0038_579.890-594.130.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯。"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1012_S0004_0/G0019/seg_0039_607.880-613.240.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "你说现在这个工作确实不太好找，就是咱们现在干的活儿。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯，咱就像咱们东北这边儿，就正常一个可以说服务行业吧，服务行业挣的钱也就是， 必须创业，或者那种领导才能挣得更多，就是没有普通人，对普通人来说，就是想挣比较多的钱是很难的。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "其实你有手艺在东北这边儿，咱们就说你有手艺就挣的多，就是像那种，嗯，假如说就是比较比较常见吧，就那种焊工儿。"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1012_S0005_0/G0019/seg_0000_1.279-3.670.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0005_0/G0019/seg_0001_21.830-26.890.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0005_0/G0019/seg_0002_64.069-79.440.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio><audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯，学一门儿技术。 嗯。 现在我家里就是以，还是就想让我学一些就是技术，就是靠技术吃饭，确实说就是长辈儿这个理念确实，确实是对的。"
+      },
+      {
+        "role": "user",
+        "content": "<audio><audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯，还有就是现在，那种办公室的工作就是各种，呃，你假如说你是一个普通的员工儿。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯。 嗯，但是，南方那边儿消费可能会大，嗯嗯，就是最近上海有一个特别火的一个，那个可能是一个关键词儿吧，就是他们说上海有上海人儿有自己的货币。"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1012_S0005_0/G0019/seg_0003_83.750-84.280.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0005_0/G0019/seg_0004_100.670-110.470.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0005_0/G0019/seg_0005_119.150-119.649.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0005_0/G0019/seg_0006_126.530-135.640.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0005_0/G0019/seg_0007_179.330-193.090.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio><audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯。 咱们就是毕竟得挣钱才能生存嘛，但是， 在高高消费城市，你可能挣的它也没有那么少，就是在，就咱们现在可能说北方稍微低点儿，但是北方儿消费也相对来说没有那么高。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯。 嗯，是，就都咱们北方的孩子都有那种理念，就是说南方的钱更好赚，完了说都往都往南方跑，但是， 你去南方，你就面临的第一个问题就是，你离家特别特别远，你回家一趟，那消费那个通勤，就特别大，但是你确实是挣得更多了。"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1012_S0005_0/G0019/seg_0008_194.090-197.829.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0005_0/G0019/seg_0009_232.940-247.299.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0005_0/G0019/seg_0010_270.799-281.200.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0005_0/G0019/seg_0011_282.349-294.250.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio><audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯。 嗯，我听过一个特别特别令令我心酸的一句话就是，北方的孩子就是我看有人儿在网上发，我们出生注定就是往南方，往往南方闯。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯。 嗯，还有就是觉得我觉得现在年轻人，就是零零后吧，能出来自己就是工作的，哎也不是特别多，有很多就是大学毕业了，"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯。 可能在家待着，他们家里边儿父母可能有稳定的经那个经济来源，可以可以供他生活吧，但是， 在那种咱们这种家长的眼里，孩子到岁数了，你说在家一待就不上班儿，就是对我们来说，对我们那个长辈儿来说，就是特别不光彩的一个事儿吧。"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1012_S0005_0/G0019/seg_0012_320.330-320.890.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0005_0/G0019/seg_0013_323.960-332.059.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0005_0/G0019/seg_0014_353.570-370.707.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0005_0/G0019/seg_0015_400.640-410.980.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯。 嗯。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯。 对，挣多挣挣少都是挣嘛，但是你总比搁家就是，没有工作强。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "但是他们面临的问题可能也也很多，就是就业难呐，或者是没有自己理想的工作，我感觉现在年轻人通过这个互联网儿嘛，就是"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1012_S0005_0/G0019/seg_0016_441.349-447.460.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0005_0/G0019/seg_0017_448.280-458.710.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0005_0/G0019/seg_0018_471.409-476.260.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯。 嗯，现在就是，"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯，现在就是，我感觉普年轻人普遍面临的一个问题，就是自己的，可能是自己把自己的地位放的太高了。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯。 嗯，没错儿，现在确实钱不好挣，自己自己毕业了，出来之后，觉得我才出来工作，没多长时间吧。"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1012_S0005_0/G0019/seg_0019_518.150-532.840.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0005_0/G0019/seg_0020_533.510-536.050.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0005_0/G0019/seg_0021_555.980-574.600.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio><audio><audio><audio>"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1012_S0005_0/G0019/seg_0022_581.600-582.220.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0005_0/G0019/seg_0023_596.180-613.500.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0005_0/G0019/seg_0024_614.336-615.192.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0005_0/G0019/seg_0025_616.328-616.944.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "你觉得现在这个家里边儿长辈儿或者爸爸妈妈爷爷奶奶，这个婚姻对咱们影响有啥？"
+      },
+      {
+        "role": "user",
+        "content": "<audio><audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯，但是咱们 咱们是零零后嘛，就是跟父母的婚姻和爷爷奶奶更早的长辈儿那种婚姻差距还是非常大的。 就是差距特别大。"
+      },
+      {
+        "role": "user",
+        "content": "<audio><audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "彩电。 嗯。"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1012_S0006_0/G0019/seg_0000_1.819-4.149.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0006_0/G0019/seg_0001_16.899-22.723.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0006_0/G0019/seg_0002_23.535-26.585.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0006_0/G0019/seg_0003_69.290-77.020.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0006_0/G0019/seg_0004_77.913-85.941.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "还有就是嗯。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "对，咱们我父母就是说咱们这代人就是可能比较自私吧，就是自己还没过好呢，就是还跟别人儿过的话不太好。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯。 我我家我爷爷奶奶对我影响特别大的观念就是，他们可能我爷爷奶那辈儿特别比较封建吧。 观念特别特别强烈，我家我有五个姑姑，我爸是老六。 完影响到了我爸我妈。 完了现在我我感觉就是太封建了，这种想法。"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1012_S0006_0/G0019/seg_0005_86.645-88.741.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0006_0/G0019/seg_0006_90.920-93.339.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0006_0/G0019/seg_0007_107.630-114.759.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "现在就是。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "对。"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1012_S0006_0/G0019/seg_0008_153.230-165.609.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0006_0/G0019/seg_0009_166.340-169.660.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0006_0/G0019/seg_0010_170.870-173.247.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "就是现在差很多了这种想法，他们就是老一辈儿有一种说法儿就是什么，嫁出的女儿泼出去的水，就是嫁出去之后就是见不着了。"
+      },
+      {
+        "role": "user",
+        "content": "<audio><audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯，还有就是家庭对孩子影响比较多的就是跟家里一些长辈儿的说话或者对亲戚们嗯那种尊重那种。 可能说是那种礼数吧，但是咱们这边儿嗯可能不叫礼数，就是最起码儿的礼貌。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯。 嗯。"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1012_S0006_0/G0019/seg_0011_173.732-174.923.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0006_0/G0019/seg_0012_188.515-190.456.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0006_0/G0019/seg_0013_191.446-193.798.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0006_0/G0019/seg_0014_218.570-226.840.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio><audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "现在 呃很少就是有家里边儿就是属于是父母啊，还有亲戚了会教孩子。 毕竟他是你长辈儿，就是对亲戚不能特别的不礼貌啊。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯。 嗯还有这个孝敬长辈儿，就是现在我家我爷爷奶奶岁数大了就是现在我爸我妈就可以，就是现在"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯，百善孝为先。"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1012_S0006_0/G0019/seg_0015_227.780-234.970.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0006_0/G0019/seg_0016_235.936-242.011.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0006_0/G0019/seg_0017_275.060-282.820.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0006_0/G0019/seg_0018_317.719-326.029.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "还有就是家里边儿对那个一些孩子那个三观。 家庭环境儿那种影响也特别大，就是你生长在一个什么环境儿会促进一个什么样的性格儿。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯，对。 嗯，现在，现在那个 家里父母离异的也是比较多的。"
+      },
+      {
+        "role": "user",
+        "content": "<audio><audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯，还有就是家庭生长的环境儿对孩子影响也特别大，就是假如说 现在比较明显的就是你城里的孩子，就是不是说城里的孩子就是市区的孩子，就是在城市里边儿长大的孩子跟农村长大的孩子肯定是还是有区别的。"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1012_S0006_0/G0019/seg_0019_327.260-327.880.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0006_0/G0019/seg_0020_348.808-360.282.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0006_0/G0019/seg_0021_395.870-404.800.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0006_0/G0019/seg_0022_405.710-413.170.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯，消费观消费观可能差比较多。 还有可能也会造成一些理念不同。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯。 嗯。 还有就是呃可能说 家庭儿 家庭环境儿那种有的非常优越。"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1012_S0006_0/G0019/seg_0023_433.880-437.590.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0006_0/G0019/seg_0024_439.190-444.100.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0006_0/G0019/seg_0025_453.169-466.420.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯，受影响。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯。 还有就是 家里边儿长辈儿那个行那个怎么说呢，就是家里边儿长辈的话语。"
+      },
+      {
+        "role": "user",
+        "content": "<audio><audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯，说过最多的事儿，这个方面的事儿就是你小的时候儿，嗯听见家长说一些事儿的时候儿。 有的很多就是父母在外打工，是被爷爷奶奶带大的。"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1012_S0006_0/G0019/seg_0026_491.570-497.080.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0006_0/G0019/seg_0027_500.179-502.810.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0006_0/G0019/seg_0028_546.500-552.220.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0006_0/G0019/seg_0029_553.880-561.190.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "最普遍的现象儿就是爷爷奶奶带大的孩子，我见过很多就是没，有点儿就是怎么说呢，咱们那边儿话就是没大没小儿。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯。 嗯。"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1012_S0006_0/G0019/seg_0030_607.069-621.460.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0006_0/G0019/seg_0031_622.220-625.270.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0006_0/G0019/seg_0032_643.310-652.630.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "你知道最近发生那个，葫芦岛被淹了那个事件吗？"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "就是咱们辽宁这边儿最近呃下了很大很大的雨，就我记得咱们在沈阳嘛。"
+      },
+      {
+        "role": "user",
+        "content": "<audio><audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "咱们下班儿之后，回家根本就是打不着车，或者是什么也什么交通都坐不了，我是趟的水，呃，去的地铁，坐完地铁之后，发现回到小区，"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1012_S0007_0/G0019/seg_0000_1.369-3.340.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0007_0/G0019/seg_0001_9.530-12.459.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0007_0/G0019/seg_0002_13.091-13.554.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0007_0/G0019/seg_0003_14.909-15.391.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio><audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯。 尤其是"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯。 尤其是那个葫芦岛嘛，葫你说的不是葫芦岛那个地方儿嘛，它是，就是前几天儿的事儿，就是下的特别特别大，就是房子已经就是只能看着房顶儿了。 现在不只能就是靠那个地嘛，每年地的收成儿。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯。"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1012_S0007_0/G0019/seg_0004_58.640-63.040.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0007_0/G0019/seg_0005_64.129-74.491.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0007_0/G0019/seg_0006_74.990-81.011.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0007_0/G0019/seg_0007_137.180-149.446.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "这一场这一场涝是我我自打我记事儿以来，咱们辽宁最大的一次降雨了。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "对咱们。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯，对咱们来说。 已经是很很长时间根本就，我记得我根本就没见过这么大的雨，就是市里啊，沈阳市里。 没持续下那么长时间，如果持续下的时间非常非常长的话，沈阳估计也是已经快到那个一层楼，半半半层儿楼那么高吧。"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1012_S0007_0/G0019/seg_0008_150.022-158.635.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0007_0/G0019/seg_0009_170.750-174.549.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0007_0/G0019/seg_0010_178.449-179.385.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "对。 嗯，做好那个排水系统，但是这个系排水系统再好也呛不住就是下的雨特别特别大，它直接就是形成内涝了。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯。 我 对，我记得有一年，我也忘了具体是哪年了，那时候儿不是咱们市里那种内涝，是外涝。"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1012_S0007_0/G0019/seg_0011_219.320-223.630.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0007_0/G0019/seg_0012_224.600-233.170.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0007_0/G0019/seg_0013_246.050-255.250.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯。"
+      },
+      {
+        "role": "user",
+        "content": "<audio><audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯，对，这场雨下的真的是太突然了，你能想象到就是一个夏天快到秋天的季节，突然就是一直下雨，下一星期。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "那天灾，嗯。"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1012_S0007_0/G0019/seg_0014_325.190-330.700.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0007_0/G0019/seg_0015_331.310-335.384.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0007_0/G0019/seg_0016_336.777-340.529.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0007_0/G0019/seg_0017_366.919-372.310.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯，还有 嗯，还有就是你是车被水泡了嘛，就是很多那网上拍的视频那车已经在水中漂了，还有那种甚至，家里边儿有那个皮划艇，已经是开船出来了。"
+      },
+      {
+        "role": "user",
+        "content": "<audio><audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "通行，还有就是那个这场雨，对那个保险可能也是一方面儿吧，那个车，很多买那种可以强险报那个水泡的那个， 钱，就保险公司可能也有也有压力的。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯，谁也不能预料。"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1012_S0007_0/G0019/seg_0018_374.479-384.070.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0007_0/G0019/seg_0019_398.840-409.904.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0007_0/G0019/seg_0020_410.937-411.441.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0007_0/G0019/seg_0021_432.065-434.646.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio><audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯，只能做好一些准备。 嗯。 最近还有什么事儿？"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "啊，对。 最近奥运会，咱们中国拿了很多金牌，具体多少金牌我没记住，但是最精彩的就是男子混双儿乒乓球，不是不是，男女混双儿乒乓球，说错了。"
+      },
+      {
+        "role": "user",
+        "content": "<audio><audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯，咱们国家乒乓球还是特别特别厉害的，我记得乒乓球有一个什么计划？"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1012_S0007_0/G0019/seg_0022_435.810-436.850.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0007_0/G0019/seg_0023_440.479-447.310.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0007_0/G0019/seg_0024_453.283-455.560.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0007_0/G0019/seg_0025_481.219-481.780.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0007_0/G0019/seg_0026_484.010-501.580.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio><audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯。 对，咱们中国乒乓球儿已经是垄断了好多年了。 还有什么还有什么项目儿夺得了比较精彩"
+      },
+      {
+        "role": "user",
+        "content": "<audio><audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯，那个射击，我在网上看那个射击非常非常难，就是咱们就是得到消息，就是觉得射击得夺得冠军，但是听着很轻松，但是他们射击那个靶子， 那个瞄准那个靶儿，没有一一块钱硬币大，而且还离了好几十米，真服，你可想而知这个项目的难难点。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯。 嗯。"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1012_S0007_0/G0019/seg_0027_541.850-549.730.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0007_0/G0019/seg_0028_551.209-557.230.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0007_0/G0019/seg_0029_566.420-567.250.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0007_0/G0019/seg_0030_571.100-573.700.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0007_0/G0019/seg_0031_603.050-614.006.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯。 还有一个非常冷门儿的一个项目儿，我不知道它这个项目儿是首次出现还是好出现了很多次，就是一个小轮儿车儿，杂类似杂技但不是表演，就是不是杂技，就是表演赛吧。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯。 嗯特别特别优秀。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯。"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1012_S0007_0/G0019/seg_0032_614.304-622.121.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0007_0/G0019/seg_0033_657.050-668.320.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0007_0/G0019/seg_0034_668.985-671.200.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯。 嗯还有，嗯，还有就是可能跳水，咱们中国跳水女子组也非常优秀，夺得夺得很多金牌。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯。 双子女子是女双儿，或者什么都夺得了非常优秀的成绩，还有什么项目儿咱们中国是比较拿擅长的？"
+      },
+      {
+        "role": "user",
+        "content": "<audio><audio><audio><audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯。 你说 嗯，你说遗憾还有一个非常令人难过的事儿，就是那个男子体操。 男子体操有一个选手可能就是出现了几次失误，掉了几次杠儿，嗯，就是最终没夺得一个很好的成绩。"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1012_S0007_0/G0019/seg_0035_672.650-683.860.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0007_0/G0019/seg_0036_694.040-699.670.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0007_0/G0019/seg_0037_707.870-708.370.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0007_0/G0019/seg_0038_715.954-718.346.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0007_0/G0019/seg_0039_719.540-721.720.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0007_0/G0019/seg_0040_723.530-732.160.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio><audio><audio><audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯。 失去了，嗯，确实非常令人遗憾嘛。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1012_S0007_0/G0019/seg_0041_741.350-741.880.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0007_0/G0019/seg_0042_751.490-756.430.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0007_0/G0019/seg_0043_758.240-760.174.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0007_0/G0019/seg_0044_761.259-765.795.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0007_0/G0019/seg_0045_767.059-768.371.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "现在这个教育方面儿对孩子的影响还是比较大的哈。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "小学"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯。 咱们现在中国是九年义务教育，就是这九年不用交学费，或者交什么各种别的费，现在已经非常好了，就是， 孩子现在家庭的教育也比较重要，就是孩子在没上学的时候儿，或者 是已经上学的时候儿，家庭父母对孩子影响非常大。"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1012_S0008_0/G0019/seg_0000_1.339-3.370.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0008_0/G0019/seg_0001_10.040-16.600.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0008_0/G0019/seg_0002_17.330-21.160.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "在咱们小的时候儿，就是五六岁儿的时候儿，家里边儿有的家长就会特意的教你一些，就是就是教你一些。 正常就是正常人该会做的一些事儿，比如说你第一次吃饭，你从小儿吃饭。 这些东西。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "对。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯，对，说说的比较明了的就是教育这方面儿就是教你一些事儿嘛，教你学会一些东西，家长，首先第一个面临教你一些东西的人儿， 其那个怎么说呢？你得有那个求学的心，不能就是追着你，教你一些东西，这种可能就不太好。"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1012_S0008_0/G0019/seg_0003_48.589-59.260.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0008_0/G0019/seg_0004_91.700-97.839.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0008_0/G0019/seg_0005_116.120-123.610.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯。 对。 我，咱们零零后可能现在嗯，接受的教育可能有点儿参差不齐吧，就是农村跟市城市里的孩子接受教育就是有差距的。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯。 对。 嗯，对。 对，对于家长来说，可能是一种变相儿的投资吧，就是你现在付出了这些，孩子在以后可能有一些呃，别的地方儿的一些回报吧。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "给他选择一些陪读，或者买一些比较贵的学区房儿。"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1012_S0008_0/G0019/seg_0006_160.370-173.470.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0008_0/G0019/seg_0007_216.110-234.910.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0008_0/G0019/seg_0008_249.110-249.790.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯。 嗯，对。 嗯，对，现在比较出圈儿的，还有那种咱们有有的在网上能看到那个中国式教育，就是对孩子有一些就是比较苛刻的要求啊。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯，还需要一些改进嘛。"
+      },
+      {
+        "role": "user",
+        "content": "<audio><audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "确实。 嗯，对。"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1012_S0008_0/G0019/seg_0009_274.460-296.740.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0008_0/G0019/seg_0010_313.063-318.730.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0008_0/G0019/seg_0011_319.849-320.410.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0008_0/G0019/seg_0012_321.906-342.130.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯，对，还有就是比较成为一种诟病的就是， 做的就是家长做的一切都是为了你好，这个观点就是非常非常的可以说就是一种，"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "对。"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1012_S0008_0/G0019/seg_0013_342.919-352.660.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0008_0/G0019/seg_0014_380.989-394.330.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0008_0/G0019/seg_0015_395.390-397.420.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "咱们现在我不知道别的地方儿，咱们辽宁这边儿农村孩子接受教育， 只能说没有没有那种城市里边儿孩子接受教育，可能有些差距吧还是。"
+      },
+      {
+        "role": "user",
+        "content": "<audio><audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯，尤其是上学上那个，呃尤其是上那个学校，学校的那个好坏就特别重要。"
+      },
+      {
+        "role": "user",
+        "content": "<audio><audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯。"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1012_S0008_0/G0019/seg_0016_398.150-400.270.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0008_0/G0019/seg_0017_420.378-421.842.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0008_0/G0019/seg_0018_424.104-427.180.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0008_0/G0019/seg_0019_427.969-430.600.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0008_0/G0019/seg_0020_436.969-442.510.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯，上学之后最出现最大的问题，我觉得就是那个补课，就是如果你孩子成绩不是特别理想，就是找老师补课，这种补课的现象儿特别特别多。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯。 对。 嗯，现在国家也可能出现了一些政策，就是抵制这些补课的行为，但是， 一对一，就是那种比较昂贵的，比较昂贵的课程嘛，那种对孩子压力也是非常大，因为一个老师教一个孩子，跟一个老师教一群孩子，性质完全不一样。"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1012_S0008_0/G0019/seg_0021_443.330-446.320.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0008_0/G0019/seg_0022_463.091-479.574.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0008_0/G0019/seg_0023_480.630-493.030.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "对。 就是可能有一些失望吧，就是对家长来说。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "还有就是你上高中，尤其是高中，高中面临高考儿嘛，这一段儿时间尤其是再尤其是就是高三，高三就马上就是面临高考儿嘛，就是"
+      },
+      {
+        "role": "user",
+        "content": "<audio><audio><audio><audio><audio>"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1012_S0008_0/G0019/seg_0024_519.949-537.310.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0008_0/G0019/seg_0025_543.170-543.880.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0008_0/G0019/seg_0026_590.660-603.460.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0008_0/G0019/seg_0027_604.459-605.860.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0008_0/G0019/seg_0028_606.740-609.730.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0008_0/G0019/seg_0029_610.970-614.080.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0008_0/G0019/seg_0030_615.290-618.310.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "你说咱们现在这个手机的自带的这种，就像苹果的那个siri，还有安卓儿的小爱或者别的这语音助手儿现在已经做的比较好了是吧？"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯，我现在用的是小米的手机嘛，完了小米还有很多米家的那种家具。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯，就是你跟手机说一句话，完了它就可以执行那个你说的这句话。"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1012_S0009_0/G0019/seg_0000_1.108-3.451.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0009_0/G0019/seg_0001_17.930-24.118.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0009_0/G0019/seg_0002_46.670-58.621.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "对，现在这个手机上的就是这个助语音助手儿，"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "那个语音助手儿现在就是咱们用的就是， 一一用的时候儿也比较少吧，反正一用就感觉它是这个就是语音助手儿，没有别的更多的体验嘛。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "对。 还有现在那个车上的人工智能也比较厉害了，就像那个高速上自动驾驶，还有那个自动停车那种技术也很高级。"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1012_S0009_0/G0019/seg_0003_84.882-103.489.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0009_0/G0019/seg_0004_126.261-137.833.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0009_0/G0019/seg_0005_168.740-179.595.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯，尤其是那种比较难停车的地方，或者， 刚考完驾照儿，倒车入库不不是很熟练的那种新手儿，就是这个自动泊车对他们来说就非常友好。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯，就是还有那个自动驾驶嘛，就是有的，我看还有那个打车的那个，就是没有人儿开那个叫什么，叫什么来着？"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯，就是那个它在城市里面儿就可以做到没有人儿，就是自己一个车就可以拉乘客啊，"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1012_S0009_0/G0019/seg_0006_196.897-212.269.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0009_0/G0019/seg_0007_226.400-242.468.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0009_0/G0019/seg_0008_254.675-255.850.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯。 但是我看见网上有说这个打车这个打这个无人驾驶这个车，有的时候儿还是没做的那么好啊。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯。 还有那个，"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯，我感觉它还是有很多需要改进的地方吧。 还有一些自动驾驶，"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1012_S0009_0/G0019/seg_0009_278.450-303.190.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0009_0/G0019/seg_0010_336.566-346.267.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0009_0/G0019/seg_0011_377.690-394.328.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio><audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "对，还有现在你知道，很多那个餐馆儿或者是商场里边儿有一些那个小AI机器人儿去，"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯。 嗯，它的确是代替了很多人儿的一些职位。 用餐者的那个餐桌儿上，那个就可以完全代替一个，怎么说代替一个员工儿吧，它是省去了一些很大力啊。"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1012_S0009_0/G0019/seg_0012_400.941-401.680.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0009_0/G0019/seg_0013_431.419-443.262.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0009_0/G0019/seg_0014_443.580-447.241.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0009_0/G0019/seg_0015_472.520-493.163.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio><audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯，对，还有就是商场里边儿那种AI的那种机器人儿，它会自己在商场里自己瞎逛，完事儿有人儿过去的话，它会回答一些问题。 它说的话都非常流利，非常顺畅嘛没有那么假我感觉。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1012_S0009_0/G0019/seg_0016_517.949-518.630.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0009_0/G0019/seg_0017_527.600-546.730.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0009_0/G0019/seg_0018_588.050-609.396.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "你最近旅旅游了吗？出去玩儿了吗？"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "啊，我之前跟我那， 跟我对象儿去了一趟大连，因为咱们是在沈阳嘛，我也没去过大连，那次去大连印象特别深。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯。 对，有对大海有一定的向往嘛，就是想看一看。 在水里吧，就是路边儿和那个街道里边儿它是有水的。 开一圈儿。 完了里边儿有很多，呃，卖吃的玩儿的，哎呀对于对我来说就是很第一次见吧，很新颖，就是你能想象想象到的一个，"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1012_S0010_0/G0019/seg_0000_1.279-3.280.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0010_0/G0019/seg_0001_8.510-10.690.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0010_0/G0019/seg_0002_65.936-84.460.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "一个也不算夜市儿吧，就算一条街吧，挺长的一条街。 呃，新颖。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "对。 对，但是大连跟咱们沈阳这边儿的吃的这方面儿没差太多，因为都是属于辽宁嘛，也没离得太远，吃的这方面儿我感觉就是那边儿可能海鲜比较多吧，海鲜比较便宜。"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1012_S0010_0/G0019/seg_0003_134.420-135.460.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0010_0/G0019/seg_0004_169.173-185.347.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0010_0/G0019/seg_0005_185.936-201.920.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯对。 话也比较像 韩国话，他们那个少数民族，那边儿特别特别火，有一栋特别大的那个 就是像什么像那个商业楼一样儿，一大面全是吃的，全是烧烤或者什么别的，他们那边少数民族对咱们的那个冲那个文化冲击还是比较大的。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯对，还有一个那个我有一个同事去了延吉那边儿有一个长白山。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯，对。 对，它这个天池对咱们人来说，可能是有一种震撼吧，有一种那个信仰，呃，它就它那个画面儿一定会特别特别"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1012_S0010_0/G0019/seg_0006_237.620-251.710.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0010_0/G0019/seg_0007_299.990-317.110.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0010_0/G0019/seg_0008_343.010-361.990.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯。"
+      },
+      {
+        "role": "user",
+        "content": "<audio><audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "对。 因为它那个海拔也比较高了，我那个同事他，"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯，就是还有一个情况儿就是长白山嗯就算你爬到了那个顶儿上。"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1012_S0010_0/G0019/seg_0009_391.549-401.380.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0010_0/G0019/seg_0010_402.289-404.320.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0010_0/G0019/seg_0011_405.320-411.790.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0010_0/G0019/seg_0012_439.310-449.470.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯。"
+      },
+      {
+        "role": "user",
+        "content": "<audio><audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯。"
+      },
+      {
+        "role": "user",
+        "content": "<audio><audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯。 嗯，我觉得第一次看见沙漠也是对于咱来说是一个比较震撼的一件事儿吧，因为我还没去我是没见过真正的沙漠。"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1012_S0010_0/G0019/seg_0013_472.119-478.183.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0010_0/G0019/seg_0014_478.534-489.310.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0010_0/G0019/seg_0015_490.370-494.980.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0010_0/G0019/seg_0016_495.799-504.340.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0010_0/G0019/seg_0017_505.280-514.809.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯，就是还有我听说新疆有那个羊肉，就是比较吃羊的比较多，还有甚至有一些牛羊肉吧。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯，新。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯。 新疆那边儿还有一个他们那边儿海拔是不是也是比咱这边儿高不少啊？"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1012_S0010_0/G0019/seg_0018_541.250-557.950.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0010_0/G0019/seg_0019_577.189-587.680.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0010_0/G0019/seg_0020_588.500-591.190.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯。 到那边儿会不会出现一些那个高原反应，就是半夜难以入睡那种情况儿。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1012_S0010_0/G0019/seg_0021_600.170-609.400.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0010_0/G0019/seg_0022_617.270-631.166.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "你听说现在出的那个比较火的那个电车儿，是小米出的那个小米SU七。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "是当时得知小米要出这个电车儿的时候，也是非常震惊的，就是觉得它是以手机就是起家的吧，然后开始做一些别的东西。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯，是现在这个电车儿发展的也是特别特别快啊，现在在在那个沈阳的市里，已经随处可见那个充电桩儿了。"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1012_S0011_0/G0019/seg_0000_1.549-3.640.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0011_0/G0019/seg_0001_12.440-22.750.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0011_0/G0019/seg_0002_56.855-70.482.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "电车儿买车这个电车儿跟油车儿是一直是这个，让咱们那个呃值得思考的一件事儿吧就是，"
+      },
+      {
+        "role": "user",
+        "content": "<audio><audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯，对，就是还有就是一个诟病，就是觉得电车儿续航它不太好，那像油车儿它有加油站就可以了。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯，没错儿，还有就是那个电车儿，咱们东北这边儿电车儿普遍讨论那句话题就是，因为东北那个冬天比较冷嘛。"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1012_S0011_0/G0019/seg_0003_87.170-110.919.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0011_0/G0019/seg_0004_150.702-157.480.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0011_0/G0019/seg_0005_158.572-172.000.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0011_0/G0019/seg_0006_207.770-230.003.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "对，还有就是电车儿有很多那个隐藏式把手儿啊，嗯就是很多就是冬天开车门。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯，还有就是电车儿， 就是很有很多就是油车儿没有的功能，就是更智能嘛，它这个发展确实比较快的，还有就像小米刚才说的，小米SU七。 在买车之后，你可以单独购买它，完事儿就是直接装在车上，就是比较比较好吧，就是你买一个基础款的车儿，完事儿还有加装儿的东西，他都会为你准备好。"
+      },
+      {
+        "role": "user",
+        "content": "<audio><audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯。 还有就是电车儿，这个出现那个事故的新闻现在是比较多的哈。"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1012_S0011_0/G0019/seg_0007_263.042-285.880.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0011_0/G0019/seg_0008_314.695-334.600.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0011_0/G0019/seg_0009_390.283-399.673.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0011_0/G0019/seg_0010_400.496-408.850.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯，就是电车儿对咱来说吧，还是呃不太有能完全就是代替这个电车儿，那个代替那个油车儿的。"
+      },
+      {
+        "role": "user",
+        "content": "<audio><audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "对，对，还有就是电车儿出现的问题就是，很多新闻我看就是出现那个刹车失灵。"
+      },
+      {
+        "role": "user",
+        "content": "<audio><audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯，没错儿，还有就是 电车儿我感觉， 可能就是能节省一些相对说油耗啊，又因为咱们去加油站，加加那个汽油是跟那个电它是不比不了的，因为电它肯定是便宜一些。"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1012_S0011_0/G0019/seg_0011_438.277-449.020.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0011_0/G0019/seg_0012_464.666-478.028.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0011_0/G0019/seg_0013_478.890-481.338.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0011_0/G0019/seg_0014_504.583-506.921.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0011_0/G0019/seg_0015_507.753-520.752.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "报废了吧，只能就是去换一个新电池。"
+      },
+      {
+        "role": "user",
+        "content": "<audio><audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯。 一块儿电池它在保儿在那个车保儿里边儿的话，他可能就给你换块儿新的，如果你这个电车儿开了很长时间，开了呃三四年。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯，还有就是电车儿现在这个价钱，呃，确实是越来越低了，就是， 像咱们这个普通人能接接触到电车儿的，那机会越来越多了。"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1012_S0011_0/G0019/seg_0016_544.520-545.080.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0011_0/G0019/seg_0017_567.709-568.210.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0011_0/G0019/seg_0018_570.318-589.270.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0011_0/G0019/seg_0019_613.250-622.270.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio>"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1012_S0011_0/G0019/seg_0020_640.490-659.740.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "现在这个咱们这个中国青少年的那个教育。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯。 特长，特长课的学习。 就是可以，现在我我接触我接触教育的时候儿，接触最多的就是。 呃，你除了不学文学文化课，还有体育，绘画儿，还有那个音乐。 出现三个那个特长生儿，但是这个咱们中国那个不知道是别的地区，咱们东北这边儿。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯，我觉得这种事情的发生吧，会导致就是咱们中国专对于一项领域的那种人才就会相对来说可能少一些吧，然后，"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1012_S0012_0/G0019/seg_0000_1.670-3.760.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0012_0/G0019/seg_0001_23.564-39.235.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0012_0/G0019/seg_0002_77.000-101.380.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio><audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "对，你说到那个健身。 对咱对咱中国的那个，怎么说就是高中生儿吧。 他们体育的这块儿的教育我感觉是肯定是相对来说是少一些的，因为大部分时间就是被那个文化课儿占据了，因为"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "对，还有就是体育这方面儿如果， 培训的话，我相信咱中国会出现很多那个体育方面儿人才，就是为国争光那种，或者是在奥运。"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1012_S0012_0/G0019/seg_0003_133.670-134.320.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0012_0/G0019/seg_0004_135.350-146.200.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0012_0/G0019/seg_0005_147.320-158.650.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0012_0/G0019/seg_0006_213.440-246.670.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯，还有就是美术这方面儿，因为我是一个怎么说呢？在高中才接触绘画吧，当时也特别特别喜欢。 因为学习美术这个花了很多钱，对我的整体体验来说，就是咱们中国呃对孩子美术这个教育还是比较差的吧，因为， 就是整体来说就是比较学费比较昂贵。"
+      },
+      {
+        "role": "user",
+        "content": "<audio><audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "对，还有就是音乐方面儿。 就是在那个期间会特别特别迷茫。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "对，现在我感觉， 中国教育缺少的是一个专项的一个培训吧，就是专业课嘛，专业课。 特别特别少，因为我感觉国外它的一个专业专业课会非常非常多，他就是培训，你一旦选择了这个专业。"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1012_S0012_0/G0019/seg_0007_288.979-310.510.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0012_0/G0019/seg_0008_369.520-370.182.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0012_0/G0019/seg_0009_371.172-383.590.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0012_0/G0019/seg_0010_420.739-441.190.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "对。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "就是缺少了一些热爱吧，但是咱们中国教育也做的比较好了，就是九年义务教育嘛，因为很多国家它不是义务教育。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "怎么说就也得让孩子有学可上嘛，就是现在这个， 到高三之后。 就是压力会非常非常大的，就是咱们毕竟中国把这个高考儿看的非常非常重，因为你没有一个好的成绩考上一个好的大学。"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1012_S0012_0/G0019/seg_0011_482.480-504.130.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0012_0/G0019/seg_0012_504.950-510.100.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0012_0/G0019/seg_0013_530.510-548.981.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio><audio>"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1012_S0012_0/G0019/seg_0014_589.423-593.504.wav",
+      "/nfs1/chain/datasets/split_audio/A1012_S0012_0/G0019/seg_0015_594.666-612.130.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "智慧语音采集。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "金融方面儿金融方面儿首先我想到就是咱们银行啊。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "对。 对。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯。 我感觉也是，而且而且提到金融这个词儿了，金融这个词我觉得在银行啊，包括哎我首先想到证券儿，可能对这个词咱们也不是太了解。"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1091_S0004_0/G0021/seg_0000_4.876-14.139.wav",
+      "/nfs1/chain/datasets/split_audio/A1091_S0004_0/G0021/seg_0001_57.860-85.660.wav",
+      "/nfs1/chain/datasets/split_audio/A1091_S0004_0/G0021/seg_0002_86.840-108.880.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio><audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯。 我感觉我感觉金融我 我个人对金融这个了解嘛，其实就像你刚才说的很多贷款买车买房儿，我也说了嗯贷款去买房儿买车有很多利息。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "就是 对就是而且 而且对这个而且对这个方面儿吧你可以想象，而且现在假如说你贷钱之后两年免息，也就两年还完之后就可以了，就不需要再去付什么额外的利息了。 包括"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "呃包括咱们现在有一些那个你像现在金融这些这些银行啊，还有一些这个呃分析师，我不知道你知不知道分析师这一这一个这这这个东西。 金融金融分，对。"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1091_S0004_0/G0021/seg_0003_110.018-112.000.wav",
+      "/nfs1/chain/datasets/split_audio/A1091_S0004_0/G0021/seg_0004_169.970-233.287.wav",
+      "/nfs1/chain/datasets/split_audio/A1091_S0004_0/G0021/seg_0005_282.229-293.050.wav",
+      "/nfs1/chain/datasets/split_audio/A1091_S0004_0/G0021/seg_0006_330.200-331.120.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "对对对对。 我觉得你说的有这方面儿对，大概的概括了这个分析师，而且这个东西吧怎么说呢，就是各有各的优点吧。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "我觉得这方面儿合作吧其实也是是一个好的方向吧，你包括以前呢去呃可能以前呢去银行去贷款呐，需要很多很多各种各样的步骤儿。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "对对对，我感觉你说这个问题其实是一个很重要的话题，就比如说现在咱买车这个保险，针对各行各业人的保险，车的保险，各种各样的保险都有。"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1091_S0004_0/G0021/seg_0007_346.355-368.770.wav",
+      "/nfs1/chain/datasets/split_audio/A1091_S0004_0/G0021/seg_0008_395.450-451.566.wav",
+      "/nfs1/chain/datasets/split_audio/A1091_S0004_0/G0021/seg_0009_495.590-539.170.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio><audio><audio><audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "金融金融就业岗位的话，我觉得嗯你像包括现在有一些金金融对于金融的会计，会会计一些这个工作我觉得会计这个工作，应该也是跟针对于金融吧。"
+      },
+      {
+        "role": "user",
+        "content": "<audio><audio><audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "对对。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "我觉得你说我觉得你说这点其实很对，我觉得你说这点其实很对。"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1091_S0004_0/G0021/seg_0010_573.290-573.850.wav",
+      "/nfs1/chain/datasets/split_audio/A1091_S0004_0/G0021/seg_0011_604.162-605.362.wav",
+      "/nfs1/chain/datasets/split_audio/A1091_S0004_0/G0021/seg_0012_606.345-614.268.wav",
+      "/nfs1/chain/datasets/split_audio/A1091_S0004_0/G0021/seg_0013_615.187-652.480.wav",
+      "/nfs1/chain/datasets/split_audio/A1091_S0004_0/G0021/seg_0014_686.840-687.550.wav",
+      "/nfs1/chain/datasets/split_audio/A1091_S0004_0/G0021/seg_0015_689.300-689.980.wav",
+      "/nfs1/chain/datasets/split_audio/A1091_S0004_0/G0021/seg_0016_692.840-711.437.wav",
+      "/nfs1/chain/datasets/split_audio/A1091_S0004_0/G0021/seg_0017_712.400-730.060.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio><audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯可以，好的。"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1091_S0004_0/G0021/seg_0018_731.030-731.680.wav",
+      "/nfs1/chain/datasets/split_audio/A1091_S0004_0/G0021/seg_0019_759.260-764.110.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "晴数智慧语音采集。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "就业就业我感觉每一个年轻人都需要经历这种问题。"
+      },
+      {
+        "role": "user",
+        "content": "<audio><audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "而且"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "我觉得你我觉得你说这个方面儿吧是也是一种方面儿，也是一个方面儿。"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1091_S0005_0/G0021/seg_0000_5.710-13.150.wav",
+      "/nfs1/chain/datasets/split_audio/A1091_S0005_0/G0021/seg_0001_62.828-112.741.wav",
+      "/nfs1/chain/datasets/split_audio/A1091_S0005_0/G0021/seg_0002_113.620-127.511.wav",
+      "/nfs1/chain/datasets/split_audio/A1091_S0005_0/G0021/seg_0003_127.638-137.920.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio><audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "我理解。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "我能理我能理解你的意思，其实你所说这几个就业这个行业吧，其实也其实也很普遍，就像你说的从旅游，其实从旅游这个方面儿来说的话，我觉得旅游这个方面儿是有很大前景儿。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯。 对是的，嗯每个人都有每个人的价值嘛，包括就业也好，他不就是嗯他也不会因为就业的大环境不好，而就是会影响你的价值，就是有句话就是是金子总会发光的嘛。"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1091_S0005_0/G0021/seg_0004_198.687-227.880.wav",
+      "/nfs1/chain/datasets/split_audio/A1091_S0005_0/G0021/seg_0005_229.000-236.067.wav",
+      "/nfs1/chain/datasets/split_audio/A1091_S0005_0/G0021/seg_0006_237.239-239.087.wav",
+      "/nfs1/chain/datasets/split_audio/A1091_S0005_0/G0021/seg_0007_303.560-364.016.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio><audio><audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯对于销售而言吧，我觉得各行各业都有都有都有每一行的好处吧，但是因为可能提到你突然之间我就想起来，因为我之前有一段儿经历是做过这些销售的。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯。 嗯我理解，我"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "我理解到你的意思了，我能我能理解到你说话的意思了。"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1091_S0005_0/G0021/seg_0008_374.929-375.490.wav",
+      "/nfs1/chain/datasets/split_audio/A1091_S0005_0/G0021/seg_0009_377.630-378.044.wav",
+      "/nfs1/chain/datasets/split_audio/A1091_S0005_0/G0021/seg_0010_386.900-429.190.wav",
+      "/nfs1/chain/datasets/split_audio/A1091_S0005_0/G0021/seg_0011_488.090-571.006.wav",
+      "/nfs1/chain/datasets/split_audio/A1091_S0005_0/G0021/seg_0012_572.270-576.880.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio><audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "但是，但"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "我觉得你的想法儿是很是一种超乎潜力的一种想象，对于这种想法儿呢也不是不可能，也是也不是存在不可能，因为世界上没有什么是不可能不可能的，你这种想法儿其实很先进。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯我没有什么补充的了，那好了ok。"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1091_S0005_0/G0021/seg_0013_577.939-578.440.wav",
+      "/nfs1/chain/datasets/split_audio/A1091_S0005_0/G0021/seg_0014_672.011-685.180.wav",
+      "/nfs1/chain/datasets/split_audio/A1091_S0005_0/G0021/seg_0015_685.910-694.090.wav",
+      "/nfs1/chain/datasets/split_audio/A1091_S0005_0/G0021/seg_0016_733.579-743.320.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio>"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1091_S0005_0/G0021/seg_0017_745.790-746.258.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "晴数智慧语音采集。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "家庭观，对于这个问题我感觉我我的理还是挺深刻的，因为你像咱们就是以我举举例啊，就是每个家庭好像都有每个家庭的价值观。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "太可怕了。 价值观就是包括你说的，其实这个这个观念来说，其实现在这家庭观其实很重要，真的很重要，就是我刚才我现在给你，先给你举一个例子吧。"
+      },
+      {
+        "role": "user",
+        "content": "<audio><audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "我觉得你说这些其实很对，我想着重强调一下，你看相对于对孩子的观念，其实有一些你像包括出去一些小猫小狗儿啊，家里养一些宠物儿啊。"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1091_S0006_0/G0021/seg_0000_5.630-15.400.wav",
+      "/nfs1/chain/datasets/split_audio/A1091_S0006_0/G0021/seg_0001_64.970-110.291.wav",
+      "/nfs1/chain/datasets/split_audio/A1091_S0006_0/G0021/seg_0002_195.568-237.449.wav",
+      "/nfs1/chain/datasets/split_audio/A1091_S0006_0/G0021/seg_0003_238.393-292.644.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio><audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯。 我觉得你说的很对，我觉得从这个方面儿来说咱俩的意见应该是一样儿的，因为父母给孩子教育是第一位的，你只有培养好的这种关系啊，包括父子关系啊，包括母子关系啊。 还有你说嗯还有你说的刚才，还有你刚才说的说什么，包括现在的啊彩礼啊，包括现在的那一些啊结婚这些，我觉得这个东西吧其实也很重要。"
+      },
+      {
+        "role": "user",
+        "content": "<audio><audio><audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "非常重要的。 嗯。 嗯，对。 对呀，是的是的，我觉得你说的很很对，这个我觉得你说的就关于这方面儿的事情探讨其实有很多很多，各种各样的呃观念呐观点来说，但是我觉得统一的应该是尊老爱幼。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯。 是的。 嗯。 呃没有了，今天今天呢那就可以了，咱们呢，"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1091_S0006_0/G0021/seg_0004_389.399-401.936.wav",
+      "/nfs1/chain/datasets/split_audio/A1091_S0006_0/G0021/seg_0005_403.058-495.822.wav",
+      "/nfs1/chain/datasets/split_audio/A1091_S0006_0/G0021/seg_0006_555.590-556.456.wav",
+      "/nfs1/chain/datasets/split_audio/A1091_S0006_0/G0021/seg_0007_557.338-558.306.wav",
+      "/nfs1/chain/datasets/split_audio/A1091_S0006_0/G0021/seg_0008_591.196-678.574.wav",
+      "/nfs1/chain/datasets/split_audio/A1091_S0006_0/G0021/seg_0009_752.356-773.350.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "ok，好的。"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1091_S0006_0/G0021/seg_0010_777.662-778.960.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "晴数智慧语音采集。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "我觉得你包括时事，我首先想到的第一点就是新闻时事新闻。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "哎我觉，哎我觉得这个华为手机就不错，而且这个时事新闻哎，你发现没，在这个新闻里边儿我记得之前在咱们有出现出现一个特别火的一个事件。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯。 而且， 哎，你一提到这个，你一提到这块儿，我就想说一句，我就感觉有的时候天灾其实很多，天灾是不可避免的。"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1091_S0007_0/G0021/seg_0000_4.819-36.443.wav",
+      "/nfs1/chain/datasets/split_audio/A1091_S0007_0/G0021/seg_0001_92.248-124.698.wav",
+      "/nfs1/chain/datasets/split_audio/A1091_S0007_0/G0021/seg_0002_146.884-217.473.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio><audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯。 对呀。 保护好自己。 保护好自身。 国家。 所以说你比较关注于国家大事一些呗。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "对于时事对于时事这个新闻吧，首先你像你讲的这些，我感觉其实关注于我们身边的这些还是比较，呃还是比较重要的。 就因为这些事情我们也知道了，要对自己的自身有安全意识，要注意安全，要保护好自己。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯。"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1091_S0007_0/G0021/seg_0003_218.479-219.247.wav",
+      "/nfs1/chain/datasets/split_audio/A1091_S0007_0/G0021/seg_0004_257.975-338.196.wav",
+      "/nfs1/chain/datasets/split_audio/A1091_S0007_0/G0021/seg_0005_342.762-364.935.wav",
+      "/nfs1/chain/datasets/split_audio/A1091_S0007_0/G0021/seg_0006_450.463-468.987.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯。 我觉得你说这一点我觉得你说这一点其实很重要，就是很多时事，你像现在很多的一些广播呀去宣传出来啊，就告诉你很多事情，你刚才说你关注国家大事，我觉得对于国家大事我也比较感兴趣儿，比较爱看一些。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯，对。 我觉得时事，诶我觉得从时事中你能说到这一点，我就很感兴趣儿。 这是过中秋节的月亮，是不是很圆，是不是时事的从新闻上我们就可以听到报道，可能也会了解到是哪天的月亮更圆。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯，对我觉得嗯对于这种，"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1091_S0007_0/G0021/seg_0007_469.460-504.610.wav",
+      "/nfs1/chain/datasets/split_audio/A1091_S0007_0/G0021/seg_0008_520.682-563.012.wav",
+      "/nfs1/chain/datasets/split_audio/A1091_S0007_0/G0021/seg_0009_608.523-647.548.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "我觉得对于今天，"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "那你为什么不去买？ 你觉得在这个方面儿你可以更加清楚的啊体会到，对于这个社会热点呢，包括很多事件呐，你能更清楚的了解，对吗？"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯。 好的。 我觉得我， 嗯，没有了，我觉得今天你说这些，我也从中能感觉到这个时事其实有很大的用处对我们生活，我们以后可以更加多关注一点儿，那今天呢我们就说到这儿。"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1091_S0007_0/G0021/seg_0010_650.356-652.112.wav",
+      "/nfs1/chain/datasets/split_audio/A1091_S0007_0/G0021/seg_0011_654.534-678.717.wav",
+      "/nfs1/chain/datasets/split_audio/A1091_S0007_0/G0021/seg_0012_688.661-727.577.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "好的。"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1091_S0007_0/G0021/seg_0013_737.923-738.743.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "晴数智慧语音采集。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "我觉得你提到教育这个话题了，我觉得教育是必不可少的。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯，你这么说，其实"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "我觉得你 我觉得你说这点其实是值得反思的，就包括现在的教育其实有很多很多的缺陷。"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1091_S0008_0/G0021/seg_0000_6.010-40.810.wav",
+      "/nfs1/chain/datasets/split_audio/A1091_S0008_0/G0021/seg_0001_130.048-177.640.wav",
+      "/nfs1/chain/datasets/split_audio/A1091_S0008_0/G0021/seg_0002_179.079-214.299.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "因为性格儿，因为性格儿的不一样儿。"
+      },
+      {
+        "role": "user",
+        "content": "<audio><audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯。 我觉得。 教育念 其实， 我理解，我能明白你的意思。 教育，对于教育这两个词儿我想说的是，就是咱们很多时候儿看到的，想起第一个话题都是，教育这个问题我首先想到应该是什么。 嗯，可以说咱们教育从小儿所接受的一些，呃，课堂上包括老师啊，包括家长啊去讲这些，这个本质意义是什么？"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "哎，提到 提到教育这话题，我突然哎我突然想到了一个，我突然想到一个特别有意思，并且赋予教育意义的一个电视剧。"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1091_S0008_0/G0021/seg_0003_233.720-234.519.wav",
+      "/nfs1/chain/datasets/split_audio/A1091_S0008_0/G0021/seg_0004_246.350-247.870.wav",
+      "/nfs1/chain/datasets/split_audio/A1091_S0008_0/G0021/seg_0005_249.535-336.340.wav",
+      "/nfs1/chain/datasets/split_audio/A1091_S0008_0/G0021/seg_0006_397.907-464.564.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "对，是的。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯，我觉得你说这点吧，对于我的认在我的这个认知里，这教育这方面儿其实有很大的作用，你又另一个方面儿体现出了教育的意义在哪？"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "啊，我没有什么要补充的，我觉得今天说一些也值得我们去深思，值得我们去考虑，我觉得今天讨论的也是可以的了这些。"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1091_S0008_0/G0021/seg_0007_522.804-551.849.wav",
+      "/nfs1/chain/datasets/split_audio/A1091_S0008_0/G0021/seg_0008_552.648-624.430.wav",
+      "/nfs1/chain/datasets/split_audio/A1091_S0008_0/G0021/seg_0009_713.829-729.608.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯，好的。"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1091_S0008_0/G0021/seg_0010_738.079-740.410.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "晴数智慧语音采集。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "你提到旅游提到这个布达拉宫，当然首先想到西藏啊，西藏那个布达相当于嗯怎么说呢？"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯。"
+      },
+      {
+        "role": "user",
+        "content": "<audio><audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "但是嗯。"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1091_S0009_0/G0021/seg_0000_5.066-21.392.wav",
+      "/nfs1/chain/datasets/split_audio/A1091_S0009_0/G0021/seg_0001_58.040-94.030.wav",
+      "/nfs1/chain/datasets/split_audio/A1091_S0009_0/G0021/seg_0002_95.270-102.009.wav",
+      "/nfs1/chain/datasets/split_audio/A1091_S0009_0/G0021/seg_0003_102.893-122.559.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "布达拉宫诶首先你说你说你是那个坐高铁，因为我感觉现在咱们国家高铁技术也是逐渐的发达。"
+      },
+      {
+        "role": "user",
+        "content": "<audio><audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯对对对对。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "对。 有很多你像现在看过很多我觉得也有很多推荐过，你像现在也推荐过很多就是各种各样儿的类似于啊一些宣传呐，说每个城市啊也有每个城市的特点。"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1091_S0009_0/G0021/seg_0004_122.990-145.463.wav",
+      "/nfs1/chain/datasets/split_audio/A1091_S0009_0/G0021/seg_0005_212.999-245.623.wav",
+      "/nfs1/chain/datasets/split_audio/A1091_S0009_0/G0021/seg_0006_247.141-271.818.wav",
+      "/nfs1/chain/datasets/split_audio/A1091_S0009_0/G0021/seg_0007_272.279-279.430.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio><audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "是。 嗯。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯。"
+      },
+      {
+        "role": "user",
+        "content": "<audio><audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "我 哎对。"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1091_S0009_0/G0021/seg_0008_329.539-336.357.wav",
+      "/nfs1/chain/datasets/split_audio/A1091_S0009_0/G0021/seg_0009_337.537-349.240.wav",
+      "/nfs1/chain/datasets/split_audio/A1091_S0009_0/G0021/seg_0010_350.090-355.450.wav",
+      "/nfs1/chain/datasets/split_audio/A1091_S0009_0/G0021/seg_0011_356.060-379.480.wav",
+      "/nfs1/chain/datasets/split_audio/A1091_S0009_0/G0021/seg_0012_380.510-387.760.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "哦。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "是不是？ 是不是感觉那种突然之间就是嗯走进布达拉宫，它那座这座城市啊，包括这座布达拉宫啊有独特它这个魅力。"
+      },
+      {
+        "role": "user",
+        "content": "<audio><audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "我感觉你这么说呀其实我也非常非常感兴趣，我也想去去看一看，就是一个呃就是怎么说呢一个令人向往神圣的一个地方儿，一个特别神圣的地方儿。"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1091_S0009_0/G0021/seg_0013_388.519-389.151.wav",
+      "/nfs1/chain/datasets/split_audio/A1091_S0009_0/G0021/seg_0014_389.947-405.610.wav",
+      "/nfs1/chain/datasets/split_audio/A1091_S0009_0/G0021/seg_0015_434.223-469.318.wav",
+      "/nfs1/chain/datasets/split_audio/A1091_S0009_0/G0021/seg_0016_470.247-482.991.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯四五月儿四五月份的时候呗。"
+      },
+      {
+        "role": "user",
+        "content": "<audio><audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "我感觉嗯要是像你这么说，我对去西藏可能对拉萨更有一种情怀吧，也是一种向往神圣的地方儿。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "对。"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1091_S0009_0/G0021/seg_0017_517.039-528.751.wav",
+      "/nfs1/chain/datasets/split_audio/A1091_S0009_0/G0021/seg_0018_529.823-545.089.wav",
+      "/nfs1/chain/datasets/split_audio/A1091_S0009_0/G0021/seg_0019_546.096-589.270.wav",
+      "/nfs1/chain/datasets/split_audio/A1091_S0009_0/G0021/seg_0020_627.063-635.378.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "对啊，因为 嗯我觉得就这么说吧，其实那边儿吧有独特的韵味吧一些向往，而且去你像去布达拉宫那边儿了呢包括"
+      },
+      {
+        "role": "user",
+        "content": "<audio><audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "哎我感觉你哎我感觉一提到这个非常离开这个喧嚣的城市，突然来到一个安静的地方，会使这个心情啊特别愉悦。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "就相当于也就相当于跟每个人去的心情儿是不一样儿的呗，自己去可能会感觉到孤独。"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1091_S0009_0/G0021/seg_0021_636.042-707.470.wav",
+      "/nfs1/chain/datasets/split_audio/A1091_S0009_0/G0021/seg_0022_758.840-759.790.wav",
+      "/nfs1/chain/datasets/split_audio/A1091_S0009_0/G0021/seg_0023_777.410-801.100.wav",
+      "/nfs1/chain/datasets/split_audio/A1091_S0009_0/G0021/seg_0024_824.900-837.068.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio><audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯呢。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "呃可以了，嗯。 了解到了那今天那就就到此结束吧。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "好的。"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1091_S0009_0/G0021/seg_0025_840.920-841.630.wav",
+      "/nfs1/chain/datasets/split_audio/A1091_S0009_0/G0021/seg_0026_842.900-843.490.wav",
+      "/nfs1/chain/datasets/split_audio/A1091_S0009_0/G0021/seg_0027_844.066-848.890.wav",
+      "/nfs1/chain/datasets/split_audio/A1091_S0009_0/G0021/seg_0028_852.709-853.300.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "智慧语音采集。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "你一提到。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "你说到，你说的这个我就想到其实我能想到很多，有很多东西已经贴近我们，呃，现实生活当中，其实生活中我们必不可少的，你像就像你刚才说的，其实智能智能窗帘儿， 嗯，家里很多智能，包括现在说的那种智能马桶，你感觉对于，"
+      },
+      {
+        "role": "user",
+        "content": "<audio><audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯。"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1091_S0010_0/G0021/seg_0000_7.016-28.234.wav",
+      "/nfs1/chain/datasets/split_audio/A1091_S0010_0/G0021/seg_0001_28.336-41.363.wav",
+      "/nfs1/chain/datasets/split_audio/A1091_S0010_0/G0021/seg_0002_104.312-105.160.wav",
+      "/nfs1/chain/datasets/split_audio/A1091_S0010_0/G0021/seg_0003_106.128-123.376.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "你一说到，你， 你一说到这个话题，我就想我就想说一点，就是你像咱们这很多这种智能，家里的都安装了马桶，包括现在装修房子也需要安装马桶，马桶其实有很多，就像你刚才说的，我不否认它有很多的弊端。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "有很多的时候儿，因为那个出去要要喝酒啊，就是朋友一起什么的。"
+      },
+      {
+        "role": "user",
+        "content": "<audio><audio><audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯。 嗯，这点。"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1091_S0010_0/G0021/seg_0004_123.645-165.961.wav",
+      "/nfs1/chain/datasets/split_audio/A1091_S0010_0/G0021/seg_0005_167.014-167.869.wav",
+      "/nfs1/chain/datasets/split_audio/A1091_S0010_0/G0021/seg_0006_238.905-242.713.wav",
+      "/nfs1/chain/datasets/split_audio/A1091_S0010_0/G0021/seg_0007_243.809-267.860.wav",
+      "/nfs1/chain/datasets/split_audio/A1091_S0010_0/G0021/seg_0008_268.750-325.905.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯，这点不错，这点我也挺喜欢，因为我也能知道，因为现在很多这个智能家居的普遍的普及，包括一些就像你说的小米，其实小米我之前，我，你应该也知道小米之家，因为里边儿有很多米家具。 你每天早上去起来的时候儿，去接收一些需要去有一个，那假如说你今天晚上手机不想定闹钟了，或者就感觉可以忘了，然后不想睁眼去看，"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯，对对对，非常非常对，而且你像现在孩子吧，你说有个嗯你像我我家里，你包括我家里，我舅家的孩子，就是十多岁儿年纪十二三，十三四的时候需要补课，"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "而且，而且最重要是什么呢？"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1091_S0010_0/G0021/seg_0009_326.543-328.919.wav",
+      "/nfs1/chain/datasets/split_audio/A1091_S0010_0/G0021/seg_0010_408.786-503.856.wav",
+      "/nfs1/chain/datasets/split_audio/A1091_S0010_0/G0021/seg_0011_586.863-600.930.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "而而且最重要是什么？它可以根据你屋里的这种湿度去判断，如果干燥的话，它会感应到环境，而且自动的去喷出这种加加湿的，产生到这种加湿的效果使屋里不是那么干燥。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "对，有有很多有很多很多这很多很多这样的，其实我感觉加湿器吧，你像现在很多冬天家里都住在楼房，楼房里边儿吧冬天它有暖气，很干燥，有地热很干燥，那干燥之后就，"
+      },
+      {
+        "role": "user",
+        "content": "<audio><audio><audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "那雾化对这这种雾化也是雾化这种玻璃，其实研研究也挺先进，就是各种各样的科技，随着发展，"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1091_S0010_0/G0021/seg_0012_600.990-605.038.wav",
+      "/nfs1/chain/datasets/split_audio/A1091_S0010_0/G0021/seg_0013_620.244-644.478.wav",
+      "/nfs1/chain/datasets/split_audio/A1091_S0010_0/G0021/seg_0014_647.097-648.022.wav",
+      "/nfs1/chain/datasets/split_audio/A1091_S0010_0/G0021/seg_0015_703.498-704.266.wav",
+      "/nfs1/chain/datasets/split_audio/A1091_S0010_0/G0021/seg_0016_706.078-752.523.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "好的，好。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1091_S0010_0/G0021/seg_0017_777.640-778.834.wav",
+      "/nfs1/chain/datasets/split_audio/A1091_S0010_0/G0021/seg_0018_780.770-781.482.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "晴数智慧语音采集。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "人工智能人工智能，我对其见解看法儿其实老多了，因为，"
+      },
+      {
+        "role": "user",
+        "content": "<audio><audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯，而且你知道对， 而且对于这个方面儿你还知道，就是对于一个智能电视而言，你现在很多人很多人他喜欢看的不是像之前一些啊各种各样的频道来说。"
+      },
+      {
+        "role": "user",
+        "content": "<audio><audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "对，超薄清大四K。"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1091_S0011_0/G0021/seg_0000_5.780-13.420.wav",
+      "/nfs1/chain/datasets/split_audio/A1091_S0011_0/G0021/seg_0001_58.940-59.440.wav",
+      "/nfs1/chain/datasets/split_audio/A1091_S0011_0/G0021/seg_0002_85.790-127.240.wav",
+      "/nfs1/chain/datasets/split_audio/A1091_S0011_0/G0021/seg_0003_181.250-186.040.wav",
+      "/nfs1/chain/datasets/split_audio/A1091_S0011_0/G0021/seg_0004_186.890-200.680.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "观影这一方面儿的想法儿，嗯对于观影这"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "对于观影这一方面儿，你看包括现在一些一些那种设就是投影吧，投影这种首先想的就是投影，说我感觉我对投影呢就是，"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯，要我说还是你对于，要我说还是你对于这个智能家居可能更嗯更深，了解的更深一点儿。 每个家庭的这种智能家居存在，无疑是给生活带来更大的这种便利快捷，出门儿现在人也不用去带钥匙了，就直接可以带一个手机就可以了，就就ok了，完全可以。"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1091_S0011_0/G0021/seg_0005_201.636-237.340.wav",
+      "/nfs1/chain/datasets/split_audio/A1091_S0011_0/G0021/seg_0006_241.790-243.609.wav",
+      "/nfs1/chain/datasets/split_audio/A1091_S0011_0/G0021/seg_0007_319.340-348.910.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio><audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "但是， 嗯。 这一方面儿这一方面儿独特的见解我倒没有，因为我也关注到这个新闻，我也看到了。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯，它首先来说它可以做的事情有很多。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "智能镜子，智能镜子其实这个也是一个不错的选择。"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1091_S0011_0/G0021/seg_0008_427.219-438.720.wav",
+      "/nfs1/chain/datasets/split_audio/A1091_S0011_0/G0021/seg_0009_439.600-462.580.wav",
+      "/nfs1/chain/datasets/split_audio/A1091_S0011_0/G0021/seg_0010_493.159-518.986.wav",
+      "/nfs1/chain/datasets/split_audio/A1091_S0011_0/G0021/seg_0011_573.890-586.930.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio><audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯，我没有什么要补充了，我觉得智能生活儿慢儿慢儿会布及到呃生活当，全部布及到生活当中，我觉得今天谈已经谈论的已经可以了今天。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "好的。"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1091_S0011_0/G0021/seg_0012_648.410-648.982.wav",
+      "/nfs1/chain/datasets/split_audio/A1091_S0011_0/G0021/seg_0013_650.569-660.430.wav",
+      "/nfs1/chain/datasets/split_audio/A1091_S0011_0/G0021/seg_0014_672.829-674.680.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "晴数智慧语音采集。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "你既然，你既然提到这个中医了，我觉得我应该是跟你说一跟你说一件事儿吧，就是在我嗯上十在十六七的时候儿吧。 然后就嗯当时在医院开完药也不管用嘛，就去中医开了几副那种开熬好的汤药，在家也喝了很长一段儿时间，慢慢儿的就开始脸上这种痘儿也就开始下去，也在调理身体。"
+      },
+      {
+        "role": "user",
+        "content": "<audio><audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯既然，既然你提到这个方面儿了，我觉得有必要说在中医方面儿要好好儿的，因为中医来说是咱们中华民族，"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯。"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1091_S0012_0/G0021/seg_0000_4.940-37.090.wav",
+      "/nfs1/chain/datasets/split_audio/A1091_S0012_0/G0021/seg_0001_102.762-120.130.wav",
+      "/nfs1/chain/datasets/split_audio/A1091_S0012_0/G0021/seg_0002_121.226-217.150.wav",
+      "/nfs1/chain/datasets/split_audio/A1091_S0012_0/G0021/seg_0003_291.469-328.030.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯，我觉得你说这点也是没有错的，其实有的时候儿你去想一想，就是中医其实出现在我们生活当中偏多一些。 也可能这话儿意思就是这个药可能苦，但是，他是治他是治病的，他是治你这个病的，良药苦口嘛，如果说那要是好吃的，可能就甜了。 所以说，对于这方面儿，你现在很多你包括很多人都想学中医，也很多因为我之前也有一个就是，因为我家里边儿就有一个特别特别一个老人，"
+      },
+      {
+        "role": "user",
+        "content": "<audio><audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "对。 我觉得你这话说的，我觉得你这话我感觉你这话说的很对，我们并不排斥于说中医跟西医，我们只是说他们俩是各有千秋，可能中医有中医的好，但是西医也有西医的好。"
+      },
+      {
+        "role": "user",
+        "content": "<audio><audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "我觉得也可以。 就是特别认真的特别认真的去对待。"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1091_S0012_0/G0021/seg_0004_329.330-355.150.wav",
+      "/nfs1/chain/datasets/split_audio/A1091_S0012_0/G0021/seg_0005_445.609-449.140.wav",
+      "/nfs1/chain/datasets/split_audio/A1091_S0012_0/G0021/seg_0006_450.465-490.900.wav",
+      "/nfs1/chain/datasets/split_audio/A1091_S0012_0/G0021/seg_0007_543.331-575.470.wav",
+      "/nfs1/chain/datasets/split_audio/A1091_S0012_0/G0021/seg_0008_576.414-632.200.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯，其实就 就像你刚才说的这个这个问题，我觉得也有一定医院肯定有不可推卸的责任。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "对呀。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "行。 好。"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1091_S0012_0/G0021/seg_0009_633.616-640.000.wav",
+      "/nfs1/chain/datasets/split_audio/A1091_S0012_0/G0021/seg_0010_675.350-678.460.wav",
+      "/nfs1/chain/datasets/split_audio/A1091_S0012_0/G0021/seg_0011_679.400-684.070.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "晴数智慧语音采集。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯，文化旅游文化旅游这些看点，首先会想到的就是，你像现在现在全国各地呀都在推荐都，现你看发现没？现在就是全国各地的这种都有各地的GDP。 你感觉哪方，你感觉在你的印象当中，你觉得你更注重于哪个旅游发展的一个 点呢？"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "就是在你的感觉当中，感觉呃这个淄博烧烤它有这方面儿的特点呗，就是也就是说一个城市的烧烤，淄博烧烤带动了这个城市的GDP，给这个城市都带动起来了呗。"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1091_S0013_0/G0021/seg_0000_6.050-13.578.wav",
+      "/nfs1/chain/datasets/split_audio/A1091_S0013_0/G0021/seg_0001_77.300-88.976.wav",
+      "/nfs1/chain/datasets/split_audio/A1091_S0013_0/G0021/seg_0002_88.997-126.428.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "也， 嗯也是因为因为在很多因为在刷视频的时候，刷抖音的时候可能就看到，因为你包括很多淄博烧烤那种小饼啊，卷着各种料儿，然后蘸着烧烤的时候。"
+      },
+      {
+        "role": "user",
+        "content": "<audio><audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "那你一说这种旅游，我突然想到了电视剧里的一句台词。 辽吉黑就是它能感觉是一家人，它能带动起整个东北的GDP吧，我感觉啊。"
+      },
+      {
+        "role": "user",
+        "content": "<audio><audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "它也这这也算一个一个特点吧，一个优点吧，就是像你说的咱们东北的孩子，好像一到冬天的时候都会去滑冰啊，包括去 南方好像是没有雪吧？"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1091_S0013_0/G0021/seg_0003_140.916-142.862.wav",
+      "/nfs1/chain/datasets/split_audio/A1091_S0013_0/G0021/seg_0004_213.352-214.252.wav",
+      "/nfs1/chain/datasets/split_audio/A1091_S0013_0/G0021/seg_0005_225.452-266.394.wav",
+      "/nfs1/chain/datasets/split_audio/A1091_S0013_0/G0021/seg_0006_339.887-404.753.wav",
+      "/nfs1/chain/datasets/split_audio/A1091_S0013_0/G0021/seg_0007_405.770-427.770.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio><audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯，很冷是很冷，但是没有你像咱们北方的天气是属于一年四季春夏秋冬就分明。 很多的南方小土豆儿们，他们投来投来羡慕的目光，哎，我记得去年还是前年的时候。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯，我有有有听说过。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯，是是的是的，听你这么一说，听你这么一说之后，我感觉像你，如果说真像你描述这种可以去看一看，因为谁也不会拒绝一个好的风景，让人嗯心旷神怡的，就像你说的去日本，"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1091_S0013_0/G0021/seg_0008_464.142-464.890.wav",
+      "/nfs1/chain/datasets/split_audio/A1091_S0013_0/G0021/seg_0009_466.262-481.624.wav",
+      "/nfs1/chain/datasets/split_audio/A1091_S0013_0/G0021/seg_0010_532.576-592.491.wav",
+      "/nfs1/chain/datasets/split_audio/A1091_S0013_0/G0021/seg_0011_595.141-606.480.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯，我觉得今天呢探讨也可以结，嗯，也可以结束了。"
+      },
+      {
+        "role": "user",
+        "content": "<audio><audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "啊，我觉得还可以，我觉得今天探讨挺开心的。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯，好的，那拜拜。"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1091_S0013_0/G0021/seg_0012_651.611-660.510.wav",
+      "/nfs1/chain/datasets/split_audio/A1091_S0013_0/G0021/seg_0013_661.723-663.835.wav",
+      "/nfs1/chain/datasets/split_audio/A1091_S0013_0/G0021/seg_0014_666.319-668.648.wav",
+      "/nfs1/chain/datasets/split_audio/A1091_S0013_0/G0021/seg_0015_670.547-673.514.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio>"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1091_S0013_0/G0021/seg_0016_675.311-676.478.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "数智慧语音采集。"
+      },
+      {
+        "role": "user",
+        "content": "<audio><audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯，那确实是挺有听起来挺有意思，但是艺术创作本来就是一个不断探索和突破的过程，啊遇到一些瓶颈，瓶颈也是很正常的。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "换个环境儿这个想法我非常赞同，就是环境的变化，有时候儿确实能够激发出一些新的灵感来。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "是啊，大自然嗯总是有一种神奇的力量。 可以让我们放松心情儿，然后获得新的灵感，就是你提到的那个艺术作品，我相信一定很有你的个人特色。"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1102_S0004_0/G0023/seg_0000_5.810-13.360.wav",
+      "/nfs1/chain/datasets/split_audio/A1102_S0004_0/G0023/seg_0001_14.450-16.540.wav",
+      "/nfs1/chain/datasets/split_audio/A1102_S0004_0/G0023/seg_0002_44.173-60.250.wav",
+      "/nfs1/chain/datasets/split_audio/A1102_S0004_0/G0023/seg_0003_91.615-107.050.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "确实是，木头和陶土的组合，听起来嗯确实很有创意。 还有你有没有就是特别喜欢的创作材料儿啊？"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "听起来确实是很有趣儿。"
+      },
+      {
+        "role": "user",
+        "content": "<audio><audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯确实是，个人的展览不仅能够展示你的作品，还能够和观众分享你的创作过程和理念。"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1102_S0004_0/G0023/seg_0004_125.533-142.710.wav",
+      "/nfs1/chain/datasets/split_audio/A1102_S0004_0/G0023/seg_0005_166.370-179.560.wav",
+      "/nfs1/chain/datasets/split_audio/A1102_S0004_0/G0023/seg_0006_207.710-215.350.wav",
+      "/nfs1/chain/datasets/split_audio/A1102_S0004_0/G0023/seg_0007_216.350-223.630.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯，那是一定的，如果你有任何需要讨论的地方可以告诉我，啊，我也很期待看到你的作品，就是说到这里，我突然想到，"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯，确实是，极限运动确实很刺激，但是安全也非常重要啊，其实有很多相对安全的方式可以尝试，就比如说高空跳绳儿。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "虚拟现实体验，那听起来很先进，我之前也听说过这种技术，就是可以在虚拟环境儿中体验各种冒险的运动，你进行过尝试吗？"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1102_S0004_0/G0023/seg_0008_253.490-266.206.wav",
+      "/nfs1/chain/datasets/split_audio/A1102_S0004_0/G0023/seg_0009_293.421-313.870.wav",
+      "/nfs1/chain/datasets/split_audio/A1102_S0004_0/G0023/seg_0010_338.570-352.960.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "非常有趣儿，虚拟现实的沉浸感确实很惊人。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "我也很喜欢这些产品，就是感觉他们能够提升生活的舒适度和便便捷性儿。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "智能净化器确实很实用，尤其是在那种大城市里空气质量不是太好的情况。 科技的进步儿让我们生活确实变得更加的舒服和健康，嗯，除了科技产品，你有没有其他的爱好或者兴趣儿？"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1102_S0004_0/G0023/seg_0011_370.475-386.230.wav",
+      "/nfs1/chain/datasets/split_audio/A1102_S0004_0/G0023/seg_0012_408.109-421.990.wav",
+      "/nfs1/chain/datasets/split_audio/A1102_S0004_0/G0023/seg_0013_443.367-460.376.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "我倒是比较喜欢吃东西，但是对于做饭我也是很喜欢的。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "听起来是很不错，但是我还是比较喜欢嗯。 中式的菜，但是我也一定会尝试一下的，但是做饭的乐趣儿就是不断的尝试这种菜。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "分子料理，那确实是非常"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1102_S0004_0/G0023/seg_0014_484.789-499.030.wav",
+      "/nfs1/chain/datasets/split_audio/A1102_S0004_0/G0023/seg_0015_526.309-542.740.wav",
+      "/nfs1/chain/datasets/split_audio/A1102_S0004_0/G0023/seg_0016_577.579-592.300.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "融合的菜品确实是很有创意，可以将不同的文化特征的美食结合到一起，然后带来一种不同的体验，嗯，如果有机会，我我们可以一起去尝一下。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯嗯，那是挺不错的。"
+      },
+      {
+        "role": "user",
+        "content": "<audio><audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯。 那确实是，我们可以找时间了解一下，安排一下课程，然后看看哪些课程是适合我们的。"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1102_S0004_0/G0023/seg_0017_613.108-635.920.wav",
+      "/nfs1/chain/datasets/split_audio/A1102_S0004_0/G0023/seg_0018_653.390-667.810.wav",
+      "/nfs1/chain/datasets/split_audio/A1102_S0004_0/G0023/seg_0019_688.374-688.918.wav",
+      "/nfs1/chain/datasets/split_audio/A1102_S0004_0/G0023/seg_0020_689.842-702.280.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯，享受生活中的点滴，探索新的事物。"
+      },
+      {
+        "role": "user",
+        "content": "<audio><audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯，那你一定，嗯。 随时欢迎讨论七嗯嗯，如也希望我们能够继续保持这种良好的交流，聊了这么多，我是真的很开心的。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯，希望也希望你的旅行和各种活动能够顺利进行，然后我们下一次再聊吧。"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1102_S0004_0/G0023/seg_0021_729.590-741.778.wav",
+      "/nfs1/chain/datasets/split_audio/A1102_S0004_0/G0023/seg_0022_760.646-762.150.wav",
+      "/nfs1/chain/datasets/split_audio/A1102_S0004_0/G0023/seg_0023_763.046-780.400.wav",
+      "/nfs1/chain/datasets/split_audio/A1102_S0004_0/G0023/seg_0024_796.280-814.870.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio>"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1102_S0004_0/G0023/seg_0025_825.020-828.670.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "晴数智慧语音采集。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯我最近还好，但是我最近嗯喜欢上了拼图儿，嗯，晚上没事儿的时候儿就会拼上几拼，嗯感觉到特别放松，嗯就是有点儿费眼睛。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯，那听起来很棒，我之前一直想学一种乐器，嗯，但总担心自己坚持不下来。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "这确实一个是一个很好的主意。 人多的力量是真的很大，对了，你有没有嗯进行过户外运动？"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1102_S0005_0/G0023/seg_0000_7.340-14.049.wav",
+      "/nfs1/chain/datasets/split_audio/A1102_S0005_0/G0023/seg_0001_34.550-52.985.wav",
+      "/nfs1/chain/datasets/split_audio/A1102_S0005_0/G0023/seg_0002_72.140-101.289.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "听起来确实很棒，嗯，我也想试试骑行，但是我最近嗯刚刚学会，可能骑的不是太好，但是能不能尝试一下加入你的队伍呀？"
+      },
+      {
+        "role": "user",
+        "content": "<audio><audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "我小的时候儿， 报过绘画班儿，嗯，但是， 我报的是一个线上的绘画课程，从最基础的素描开始学习。 嗯，每天晚上都会抽一两个小时来画画，嗯，感觉特别解压。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯，还行吧，但是现在还处于初级的阶段，但是我已经能慢慢看到自己的进步了。"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1102_S0005_0/G0023/seg_0003_128.870-150.100.wav",
+      "/nfs1/chain/datasets/split_audio/A1102_S0005_0/G0023/seg_0004_170.600-176.108.wav",
+      "/nfs1/chain/datasets/split_audio/A1102_S0005_0/G0023/seg_0005_177.020-192.928.wav",
+      "/nfs1/chain/datasets/split_audio/A1102_S0005_0/G0023/seg_0006_235.960-246.549.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio><audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯这还真有，我最近真的加入了一个当地的一个读书俱乐部儿，呃，每到周六的晚上，我们大家都会聚到一起，"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "最近我刚读完三体三部曲儿，真的被刘慈欣的想象力震撼到了。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "当然喜欢了，科幻电影儿和电视剧一都一直都是我的最爱，啊最近我在追星际穿越，那部电影儿里的视觉效果和故事情节都太棒了。"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1102_S0005_0/G0023/seg_0007_277.099-283.415.wav",
+      "/nfs1/chain/datasets/split_audio/A1102_S0005_0/G0023/seg_0008_284.450-289.600.wav",
+      "/nfs1/chain/datasets/split_audio/A1102_S0005_0/G0023/seg_0009_321.080-341.920.wav",
+      "/nfs1/chain/datasets/split_audio/A1102_S0005_0/G0023/seg_0010_359.960-374.547.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "这个倒是有想过，但是没有实际进行过，不过我有一个朋友是科幻迷。"
+      },
+      {
+        "role": "user",
+        "content": "<audio><audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "说实话相比于以上的那些，我还是比较喜欢户外运动，就是在周末的时候儿，我会约上， 几个朋友一起去爬山或者是徒步，嗯，在大自然的中呼吸一些新鲜的空气，看看风景儿，感觉到整个人都会得到释放。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯，看起来你的时间管理做的很好，我也得向你学习一下，安排安排我的时间，多进行尝试一下新的休闲方式。"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1102_S0005_0/G0023/seg_0011_395.690-414.266.wav",
+      "/nfs1/chain/datasets/split_audio/A1102_S0005_0/G0023/seg_0012_437.606-441.054.wav",
+      "/nfs1/chain/datasets/split_audio/A1102_S0005_0/G0023/seg_0013_441.923-457.450.wav",
+      "/nfs1/chain/datasets/split_audio/A1102_S0005_0/G0023/seg_0014_489.500-506.390.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯嗯，看来这么做确实很好，嗯。 对，你还有什么其它的休闲方式吗？"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "那确实是挺好，嗯，对了，我还比较喜欢摄影啊，嗯然后摄影能让我用镜头捕捉到生活中一些美好的瞬间。"
+      },
+      {
+        "role": "user",
+        "content": "<audio><audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "我也很喜欢旅行，但是因为各种原因嗯，有太多地方没有去成，你有什么好的地方给我推荐一下吗？以后有时间我可以去看看。"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1102_S0005_0/G0023/seg_0015_523.048-548.050.wav",
+      "/nfs1/chain/datasets/split_audio/A1102_S0005_0/G0023/seg_0016_565.010-584.114.wav",
+      "/nfs1/chain/datasets/split_audio/A1102_S0005_0/G0023/seg_0017_608.214-608.886.wav",
+      "/nfs1/chain/datasets/split_audio/A1102_S0005_0/G0023/seg_0018_609.760-626.997.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "这听起来就很吸引人，我如如果有时间，我一定会去看一看的，然后我去我会尝一下当地的嗯美食什么的，然后就是谢谢你给我的推荐。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "那就谢谢你吉言了，我感觉嗯我应该会做到的。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1102_S0005_0/G0023/seg_0019_643.263-666.430.wav",
+      "/nfs1/chain/datasets/split_audio/A1102_S0005_0/G0023/seg_0020_684.140-705.850.wav",
+      "/nfs1/chain/datasets/split_audio/A1102_S0005_0/G0023/seg_0021_713.600-714.280.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "晴数智慧语音采集。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯，你说的我我也觉得家庭非常重要，嗯，他不仅仅是一个住所，然后更是一种情感上的寄托。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯，呃非常有道理，然后相互尊重确实是建立良好家庭关系的基础，然后吧所以我还有我觉得还有一点呢就是沟通。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯，我个人认为嗯每个家庭成员嗯都应该承担起自己的责任，然后吧为 家庭的幸福和稳定贡献自己的力量，就是比如说父母要照顾好孩子，嗯，孩子也要孝顺父母。"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1102_S0006_0/G0023/seg_0000_6.970-24.730.wav",
+      "/nfs1/chain/datasets/split_audio/A1102_S0006_0/G0023/seg_0001_42.740-58.672.wav",
+      "/nfs1/chain/datasets/split_audio/A1102_S0006_0/G0023/seg_0002_89.522-108.278.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯，也很深刻，然后在我看来，家庭和事业之间应该做到平衡。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯，家人商量确实是个好办法，嗯。 但我还认为家庭对个人的成长是非常大的，嗯，一个温暖和谐的家庭，可能培养出一个自信乐观有爱心的人。 所以说呃，你认为你应该如何制造一个良好的家庭氛围？"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "这些方法都很不错，然后我还有我感觉啊，在家庭中教育孩子是很重要的，嗯。"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1102_S0006_0/G0023/seg_0003_128.985-151.570.wav",
+      "/nfs1/chain/datasets/split_audio/A1102_S0006_0/G0023/seg_0004_185.098-208.870.wav",
+      "/nfs1/chain/datasets/split_audio/A1102_S0006_0/G0023/seg_0005_246.134-267.460.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯，你说说的非常全面，然后在家庭中，父母的角色也很重要，父亲通常是家庭的顶梁柱儿，要承担起家庭的经济责任。 嗯。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "这个确实是不太好说，但是我个人感觉嗯未来的家庭观念可能会更加注重平衡，合作和共享。"
+      },
+      {
+        "role": "user",
+        "content": "<audio><audio><audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯，说的没错儿，嗯。 但是我们 要衡量 良好的家庭观，就是可以通过教育宣传等方面来弘扬良好的家庭观。"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1102_S0006_0/G0023/seg_0006_296.099-327.130.wav",
+      "/nfs1/chain/datasets/split_audio/A1102_S0006_0/G0023/seg_0007_357.391-391.000.wav",
+      "/nfs1/chain/datasets/split_audio/A1102_S0006_0/G0023/seg_0008_419.539-421.390.wav",
+      "/nfs1/chain/datasets/split_audio/A1102_S0006_0/G0023/seg_0009_422.880-441.074.wav",
+      "/nfs1/chain/datasets/split_audio/A1102_S0006_0/G0023/seg_0010_442.087-449.470.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯，说的没错儿，传统文化和传的传承对于家庭和社会都有着很重要的意义。 处理家庭成员之间的矛盾。"
+      },
+      {
+        "role": "user",
+        "content": "<audio><audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯，说的很有道理，嗯，如果矛盾无法解决，我们就可以寻找第三方的帮助，就比如说亲戚朋友。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯，说的有道理，在家庭中培养孩子的感恩之心也是很重要的。"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1102_S0006_0/G0023/seg_0011_484.111-504.010.wav",
+      "/nfs1/chain/datasets/split_audio/A1102_S0006_0/G0023/seg_0012_524.150-535.064.wav",
+      "/nfs1/chain/datasets/split_audio/A1102_S0006_0/G0023/seg_0013_536.047-548.470.wav",
+      "/nfs1/chain/datasets/split_audio/A1102_S0006_0/G0023/seg_0014_573.312-603.220.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯，这些说的都没错，但是我感觉嗯在家庭中培养孩子的社交能力也是很重要的。 比如说倾听他人，表达自己等。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯。 嗯，很有道理，但是嗯我感觉 安全意识也是非常重要的，然后我们可以给孩子讲解一些安全知识，就比如说交通安全，消防安全。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯，当然嗯这些都非常重要，但是非常感谢你和我分享。"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1102_S0006_0/G0023/seg_0015_626.790-657.520.wav",
+      "/nfs1/chain/datasets/split_audio/A1102_S0006_0/G0023/seg_0016_700.820-731.260.wav",
+      "/nfs1/chain/datasets/split_audio/A1102_S0006_0/G0023/seg_0017_765.514-795.250.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "晴数智慧语音采集。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯，我我确实有关注，嗯，我感觉， 另一方面，也促进了经济的发展，带动了很多相关产业，你有没有去过一些特别让你印象深刻的文旅景点儿？"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "听起来真好，古村落确实有着独特的魅力。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "听起来真不错，嗯，文旅产业的发展离不开这些独特的文化元素和美食体验，那你觉得文旅产业在发展过程中需要注意些什么？"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1102_S0007_0/G0023/seg_0000_8.060-17.890.wav",
+      "/nfs1/chain/datasets/split_audio/A1102_S0007_0/G0023/seg_0001_50.660-66.218.wav",
+      "/nfs1/chain/datasets/split_audio/A1102_S0007_0/G0023/seg_0002_85.280-105.850.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯，这点我非常赞同，保护文化遗产是文旅产业可持续发展的基础。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯，有道理。 政府的支持对于文旅产业的发展至关重要，嗯，那企业也应该有着非常重要作用，所以说企业在文旅产业中又扮演着什么角色啊？"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯，说的没错，企业的创新和营销能力。 能够成是能够为文旅产业带来新的活动，那对于游客来说，我们在文旅过程中应该怎么做啊？"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1102_S0007_0/G0023/seg_0003_122.120-140.200.wav",
+      "/nfs1/chain/datasets/split_audio/A1102_S0007_0/G0023/seg_0004_166.580-187.445.wav",
+      "/nfs1/chain/datasets/split_audio/A1102_S0007_0/G0023/seg_0005_208.610-228.247.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "说的对，文文明旅游是我们每个人的责任，我觉得未来文旅产业会更加注重个性化和体验化。"
+      },
+      {
+        "role": "user",
+        "content": "<audio><audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯，我也是这么认为的，嗯，我最近一直想去一些自然景观和文化遗产相结合的地方，就比如说黄山张家界等地方。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯。 对，我首先也会考虑交通嗯嗯交通的便利性儿，旅游设施的完整程度。"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1102_S0007_0/G0023/seg_0006_246.320-266.121.wav",
+      "/nfs1/chain/datasets/split_audio/A1102_S0007_0/G0023/seg_0007_297.830-311.470.wav",
+      "/nfs1/chain/datasets/split_audio/A1102_S0007_0/G0023/seg_0008_312.320-326.830.wav",
+      "/nfs1/chain/datasets/split_audio/A1102_S0007_0/G0023/seg_0009_349.460-364.210.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯，没错儿，文旅产业的发展对当地经济的贡献是很多方面的。"
+      },
+      {
+        "role": "user",
+        "content": "<audio><audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯，有道理，环境教育和投入都是非常重要的。"
+      },
+      {
+        "role": "user",
+        "content": "<audio><audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯，说的很有道理，深度融合需要多方面的努力。"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1102_S0007_0/G0023/seg_0010_387.590-413.216.wav",
+      "/nfs1/chain/datasets/split_audio/A1102_S0007_0/G0023/seg_0011_446.432-453.088.wav",
+      "/nfs1/chain/datasets/split_audio/A1102_S0007_0/G0023/seg_0012_453.926-472.270.wav",
+      "/nfs1/chain/datasets/split_audio/A1102_S0007_0/G0023/seg_0013_506.510-517.840.wav",
+      "/nfs1/chain/datasets/split_audio/A1102_S0007_0/G0023/seg_0014_519.306-540.720.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio><audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯，说的非常好，只有大家齐心协力，才能让文旅产业更加繁荣。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1102_S0007_0/G0023/seg_0015_573.133-580.811.wav",
+      "/nfs1/chain/datasets/split_audio/A1102_S0007_0/G0023/seg_0016_581.664-604.960.wav",
+      "/nfs1/chain/datasets/split_audio/A1102_S0007_0/G0023/seg_0017_629.840-637.870.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "晴数智慧语音采集。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯是，现在的孩子们有更多的机会接触到各种知识和技能。 不过我也觉得，现在的教育竞争压力太大了，孩子们从小嗯学习上各种的辅导班儿，感觉他们的童年都被学习填满了。"
+      },
+      {
+        "role": "user",
+        "content": "<audio><audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯，我认为嗯要解决这个问题，首先得从家长那方面去看。"
+      },
+      {
+        "role": "user",
+        "content": "<audio><audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯，这样确实能更全面的评价学生，嗯，但是我还是觉得教育公平，也是一个很重要的问题。"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1102_S0008_0/G0023/seg_0000_8.300-21.400.wav",
+      "/nfs1/chain/datasets/split_audio/A1102_S0008_0/G0023/seg_0001_45.470-55.956.wav",
+      "/nfs1/chain/datasets/split_audio/A1102_S0008_0/G0023/seg_0002_57.111-64.043.wav",
+      "/nfs1/chain/datasets/split_audio/A1102_S0008_0/G0023/seg_0003_108.510-116.583.wav",
+      "/nfs1/chain/datasets/split_audio/A1102_S0008_0/G0023/seg_0004_117.398-140.264.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio><audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯，互联网教育确实是一个不错的办法，现在很多在线教育平台都发展的很不错，可以让学生随时随地的学习。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯，那确实是，嗯，但是作作为学生和作为家长和老师啊，嗯我们应该对教育有着不同的看法儿。"
+      },
+      {
+        "role": "user",
+        "content": "<audio><audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯，我认为我们可以从几个方面来解决它，首先就是嗯职业教育学校应该加强师师资队伍建设。 嗯，提高职业教育的社会地位。"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1102_S0008_0/G0023/seg_0005_174.020-200.766.wav",
+      "/nfs1/chain/datasets/split_audio/A1102_S0008_0/G0023/seg_0006_202.104-210.609.wav",
+      "/nfs1/chain/datasets/split_audio/A1102_S0008_0/G0023/seg_0007_270.380-314.065.wav",
+      "/nfs1/chain/datasets/split_audio/A1102_S0008_0/G0023/seg_0008_363.554-371.668.wav",
+      "/nfs1/chain/datasets/split_audio/A1102_S0008_0/G0023/seg_0009_372.564-396.820.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯，如果想解决这些问题，嗯我认为嗯应应该更加注重人才的培养，嗯提高人才的质量和实用性。 提高教师的教学水平和责任心。"
+      },
+      {
+        "role": "user",
+        "content": "<audio><audio><audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "这些问题确实需要注意，啊如果要解决的话，我认为嗯最好从加强国际间的教育交流与合作。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯，说的没错，教育是一个国家和民族发展的基石，我们确实需要不断的思考和改进教育现状，嗯，为孩子们创造更好的教育环境。"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1102_S0008_0/G0023/seg_0010_437.599-467.579.wav",
+      "/nfs1/chain/datasets/split_audio/A1102_S0008_0/G0023/seg_0011_501.020-506.918.wav",
+      "/nfs1/chain/datasets/split_audio/A1102_S0008_0/G0023/seg_0012_507.722-515.474.wav",
+      "/nfs1/chain/datasets/split_audio/A1102_S0008_0/G0023/seg_0013_518.713-541.410.wav",
+      "/nfs1/chain/datasets/split_audio/A1102_S0008_0/G0023/seg_0014_575.150-611.250.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio>"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1102_S0008_0/G0023/seg_0015_626.401-636.430.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "晴数智慧语音采集。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "是啊，现在的就业形势确实不容乐观，嗯，你是刚毕业吗？还是已经有了工作想换工作啊？"
+      },
+      {
+        "role": "user",
+        "content": "<audio><audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯，刚毕业找工作确实是很不容易，嗯，所以你学的是什么专业？"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "计算机专业确实很热门儿，嗯，但是这个专业嗯的人也是特别多的，嗯，你有没有考虑过找一些和， 计算机相关的其他领域的工作啊？"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1102_S0009_0/G0023/seg_0000_10.296-17.560.wav",
+      "/nfs1/chain/datasets/split_audio/A1102_S0009_0/G0023/seg_0001_34.584-35.416.wav",
+      "/nfs1/chain/datasets/split_audio/A1102_S0009_0/G0023/seg_0002_36.300-44.382.wav",
+      "/nfs1/chain/datasets/split_audio/A1102_S0009_0/G0023/seg_0003_57.080-71.080.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯，那也，嗯，能够理解，但是那你有没有参加过一些招聘会呀？或者是校园的招聘？"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯，那确实也是，这也是很多毕业生面临的问题。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "倒也是嗯，那你可以通过一些渠道啊，比如说你的老师学长学姐推荐嗯，或者在网上找一些实习信息。 一些项目经验，这样以后找工作就是好找了。"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1102_S0009_0/G0023/seg_0004_94.220-106.030.wav",
+      "/nfs1/chain/datasets/split_audio/A1102_S0009_0/G0023/seg_0005_120.380-135.280.wav",
+      "/nfs1/chain/datasets/split_audio/A1102_S0009_0/G0023/seg_0006_154.130-166.239.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯，我已经工作一段时间了，但是最近也在考虑换工作。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "也不是不好，也就是感觉发展空间有限，而且现在行业变化很快，嗯，我想找一个嗯，更有挑战性的工作。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "哎，也是不太顺利。 现在竞争很激烈，而且我要，我的要求也比较高，我想找一个薪资好，发展前景好，工作环境好的工作。"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1102_S0009_0/G0023/seg_0007_198.888-207.670.wav",
+      "/nfs1/chain/datasets/split_audio/A1102_S0009_0/G0023/seg_0008_218.450-222.640.wav",
+      "/nfs1/chain/datasets/split_audio/A1102_S0009_0/G0023/seg_0009_237.680-242.829.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯，有一些吧，嗯，我是我觉得首先要明确自己的职业目标和定位。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯，那我可以推荐你去做一些职业的测评，或者去和你的老师同学还有你的朋友交流一下。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯嗯，还有就是要做好充分的准备，包括简历，面试技巧，行为行业知识等方面。"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1102_S0009_0/G0023/seg_0010_261.349-273.400.wav",
+      "/nfs1/chain/datasets/split_audio/A1102_S0009_0/G0023/seg_0011_295.580-304.479.wav",
+      "/nfs1/chain/datasets/split_audio/A1102_S0009_0/G0023/seg_0012_330.469-335.680.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio><audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯，这些就比如说是公司的背景，业务，文化等方面。 嗯的面试上的嗯， 就业率。"
+      },
+      {
+        "role": "user",
+        "content": "<audio><audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯，确实是，嗯，但是不同的行业发展的前景确实也不一样，嗯，你要根据自己的兴趣和专业，嗯来进行选择。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯，我我个人，嗯，来看，人工智能是一个很有发展前景的行业，现在很多企业都在加大对人工智能投入。"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1102_S0009_0/G0023/seg_0013_362.960-376.060.wav",
+      "/nfs1/chain/datasets/split_audio/A1102_S0009_0/G0023/seg_0014_376.880-381.790.wav",
+      "/nfs1/chain/datasets/split_audio/A1102_S0009_0/G0023/seg_0015_411.229-434.650.wav",
+      "/nfs1/chain/datasets/split_audio/A1102_S0009_0/G0023/seg_0016_435.560-441.490.wav",
+      "/nfs1/chain/datasets/split_audio/A1102_S0009_0/G0023/seg_0017_457.340-465.730.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯，然后你还得学习一些基础的， 编程语言，就比如说python，C加加，还需要学习机器学习，深度学习，数据挖掘等相关知识。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "同时，你还需要良好的数学逻辑和思维能力。"
+      },
+      {
+        "role": "user",
+        "content": "<audio><audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯，薪资这个问题当然是很重要的，但是也不是唯一的考虑因素，你还要考虑公司的发展前景，工作环境， 职业发展空间等方面，如果一个公司的发展前景好，工作环境好，职业发展空间大，即使薪资不是很高，也值得考虑考虑。"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1102_S0009_0/G0023/seg_0018_494.090-494.830.wav",
+      "/nfs1/chain/datasets/split_audio/A1102_S0009_0/G0023/seg_0019_514.880-515.559.wav",
+      "/nfs1/chain/datasets/split_audio/A1102_S0009_0/G0023/seg_0020_521.870-556.593.wav",
+      "/nfs1/chain/datasets/split_audio/A1102_S0009_0/G0023/seg_0021_557.742-569.417.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯，你说的确实很有道理。 嗯，但是我觉得，嗯，未来的就业形势会越来越严峻。 随着科技的发展，很多传统行业会被淘汰。"
+      },
+      {
+        "role": "user",
+        "content": "<audio><audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯嗯，那确实是，就相当于烟草嗯制药这种行业嗯，呃是需要， 嗯，很多专业知识什么的，毕竟， 是关系到国家的东西。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "不客气，我们都是在不断学习和成长的过程中，希望你能找到一份儿满意的工作。"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1102_S0009_0/G0023/seg_0022_598.579-637.000.wav",
+      "/nfs1/chain/datasets/split_audio/A1102_S0009_0/G0023/seg_0023_667.022-668.998.wav",
+      "/nfs1/chain/datasets/split_audio/A1102_S0009_0/G0023/seg_0024_670.108-688.877.wav",
+      "/nfs1/chain/datasets/split_audio/A1102_S0009_0/G0023/seg_0025_713.757-723.910.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio>"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1102_S0009_0/G0023/seg_0026_733.790-734.710.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "晴数智慧语音采集。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "教育实践啊，这是可是个很重要的话题，在我看来，教育实践就是将教育理论应用到实际教学过程中。 发展提供实践依据。 嗯"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯，确实是，以学生为中心这确实是现代教育的一个重要理念。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯，自主学习能力对于学生的未来发展确实很重要。 让每个学生都能在学习中得到充分的发展。"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1102_S0010_0/G0023/seg_0000_12.620-26.530.wav",
+      "/nfs1/chain/datasets/split_audio/A1102_S0010_0/G0023/seg_0001_50.091-67.419.wav",
+      "/nfs1/chain/datasets/split_audio/A1102_S0010_0/G0023/seg_0002_94.490-114.195.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio><audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "分层和个别教导确实是不错的方法，嗯，我觉得实践教育中教师的专业素质也非常重要。"
+      },
+      {
+        "role": "user",
+        "content": "<audio><audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯，确实是，嗯但在教育实践中，嗯教师如果想要提高自己的专业素养。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯，教育环境确实很重要。 嗯，营造一个和谐的师生关系和同学关系，同时也要注重校园文化建设，让学生在潜移默化中受到教育。"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1102_S0010_0/G0023/seg_0003_146.450-150.370.wav",
+      "/nfs1/chain/datasets/split_audio/A1102_S0010_0/G0023/seg_0004_151.340-174.850.wav",
+      "/nfs1/chain/datasets/split_audio/A1102_S0010_0/G0023/seg_0005_201.830-202.690.wav",
+      "/nfs1/chain/datasets/split_audio/A1102_S0010_0/G0023/seg_0006_203.960-229.780.wav",
+      "/nfs1/chain/datasets/split_audio/A1102_S0010_0/G0023/seg_0007_264.770-288.940.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯。 鼓励学生积极参加课堂讨论和互动，给予学生及时的反馈和评价等方式来营造一个良好的课堂氛围。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯，教育评确实是很重要的，嗯但是我们应该建立一个多样化的教育评价体系。"
+      },
+      {
+        "role": "user",
+        "content": "<audio><audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "这些评价方法和手动，我们还能注意教育公平是 社会公平的重要基础，我们应该努力的为每个学生提供公平的教育机会。"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1102_S0010_0/G0023/seg_0008_324.049-354.430.wav",
+      "/nfs1/chain/datasets/split_audio/A1102_S0010_0/G0023/seg_0009_385.190-405.490.wav",
+      "/nfs1/chain/datasets/split_audio/A1102_S0010_0/G0023/seg_0010_440.090-477.599.wav",
+      "/nfs1/chain/datasets/split_audio/A1102_S0010_0/G0023/seg_0011_478.849-485.080.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio><audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯，说的非常有道理，嗯那在教育实践中，我们还应该注意教育与社会的联系。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯，的确，这些方法都很不错，嗯，通过这次的对话，我对教育实践有了更深入的理解，谢谢你的分享。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1102_S0010_0/G0023/seg_0012_512.569-516.280.wav",
+      "/nfs1/chain/datasets/split_audio/A1102_S0010_0/G0023/seg_0013_517.626-541.260.wav",
+      "/nfs1/chain/datasets/split_audio/A1102_S0010_0/G0023/seg_0014_570.740-596.580.wav",
+      "/nfs1/chain/datasets/split_audio/A1102_S0010_0/G0023/seg_0015_610.632-623.740.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "晴数智慧语音采集。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "完了，就比如说金砖国家的相关动态就很值得关注，你看今年金砖国家领导人，五次会晤。 进行了扩员，沙特埃及阿联酋阿根廷伊朗埃塞俄比亚，正式成为金砖大家庭成员，这可是具有历史性意义的大事儿啊。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "没错。 中国在国际事务中发挥的重要作用。 强调要携手构建发展共同体，不让任何一个国家在世界现代化进程中掉队，这真的很振奋人心。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯没错儿，这次在旧金山的会晤意义重大。"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1102_S0011_0/G0023/seg_0000_7.160-15.400.wav",
+      "/nfs1/chain/datasets/split_audio/A1102_S0011_0/G0023/seg_0001_45.470-61.817.wav",
+      "/nfs1/chain/datasets/split_audio/A1102_S0011_0/G0023/seg_0002_98.030-115.720.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "习近平主席还提出了中美要共同树立正确认知，共同有效管控分歧，共同推进互利合作，共同承担大国责任。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "中非关系一直"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯是啊，看来各国之间的交流和与合作在不断加强。"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1102_S0011_0/G0023/seg_0003_138.710-153.700.wav",
+      "/nfs1/chain/datasets/split_audio/A1102_S0011_0/G0023/seg_0004_175.940-218.037.wav",
+      "/nfs1/chain/datasets/split_audio/A1102_S0011_0/G0023/seg_0005_255.080-283.300.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio><audio><audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯确实是这样，啊我们作为普通公民，也应该多关注时事政治，嗯了解国际形势的变化。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "对就比如说前段时间发生的俄乌冲突这件事，呃这件事就严重的影响了世界间的和平，我嗯。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯。 对，关于国家的大事也是我们每个人的责任和义务，嗯不管是国际上的大事，还是国内的政策，都和我们的生活息息相关。"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1102_S0011_0/G0023/seg_0006_306.590-313.660.wav",
+      "/nfs1/chain/datasets/split_audio/A1102_S0011_0/G0023/seg_0007_314.539-330.310.wav",
+      "/nfs1/chain/datasets/split_audio/A1102_S0011_0/G0023/seg_0008_331.400-339.400.wav",
+      "/nfs1/chain/datasets/split_audio/A1102_S0011_0/G0023/seg_0009_364.370-374.500.wav",
+      "/nfs1/chain/datasets/split_audio/A1102_S0011_0/G0023/seg_0010_392.960-407.440.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯确实是这种行为嗯不利于我认为它不利于嗯世界和平的发展，然后对一些国家的政策会有一定的影响。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯确实是有这种可能，但是我还是希望，嗯 世界上能够保持一定的稳定，只有这样我们才能够更好的去面对未来的生活儿，嗯。"
+      },
+      {
+        "role": "user",
+        "content": "<audio><audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯，确实是，只有各国共同努力，嗯才能够解决全球性的问题，实现世界的和平与发展。"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1102_S0011_0/G0023/seg_0011_427.400-450.070.wav",
+      "/nfs1/chain/datasets/split_audio/A1102_S0011_0/G0023/seg_0012_468.739-482.470.wav",
+      "/nfs1/chain/datasets/split_audio/A1102_S0011_0/G0023/seg_0013_506.759-508.240.wav",
+      "/nfs1/chain/datasets/split_audio/A1102_S0011_0/G0023/seg_0014_509.390-529.889.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio><audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯，那确确实是这样的，啊但是嗯如今是嗯我们的生活还算 和平我们希望维持住这样一个呃生活儿，嗯还有关于这时事政治的讨论我们有很多收获，以后我们可以多聊一些这样的话题。"
+      },
+      {
+        "role": "user",
+        "content": "<audio>"
+      }
+    ],
+    "audios": [
+      "/nfs1/chain/datasets/split_audio/A1102_S0011_0/G0023/seg_0015_553.100-560.966.wav",
+      "/nfs1/chain/datasets/split_audio/A1102_S0011_0/G0023/seg_0016_563.480-571.180.wav",
+      "/nfs1/chain/datasets/split_audio/A1102_S0011_0/G0023/seg_0017_600.860-610.390.wav"
+    ]
+  }
+]

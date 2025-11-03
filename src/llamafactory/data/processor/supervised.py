@@ -40,7 +40,10 @@ class SupervisedDatasetProcessor(DatasetProcessor):
         videos: list["VideoInput"],
         audios: list["AudioInput"],
     ) -> tuple[list[int], list[int]]:
+        # import pdb;
+        # pdb.set_trace()
         messages = self.template.mm_plugin.process_messages(prompt + response, images, videos, audios, self.processor)
+
         input_ids, labels = self.template.mm_plugin.process_token_ids(
             [], [], images, videos, audios, self.tokenizer, self.processor
         )
@@ -50,15 +53,16 @@ class SupervisedDatasetProcessor(DatasetProcessor):
             encoded_pairs = encoded_pairs[::-1]  # high priority for last turns
 
         for turn_idx, (source_ids, target_ids) in enumerate(encoded_pairs):
-            if total_length >= self.data_args.cutoff_len:
-                break
-
+            
             source_len, target_len = infer_seqlen(
                 len(source_ids), len(target_ids), self.data_args.cutoff_len - total_length
             )
             source_ids = source_ids[:source_len]
             target_ids = target_ids[:target_len]
             total_length += source_len + target_len
+            
+            if total_length >= self.data_args.cutoff_len:
+                break
 
             if self.data_args.train_on_prompt:
                 source_label = source_ids

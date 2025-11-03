@@ -3,6 +3,7 @@ model_name_or_path: /nfs1/chain/llm_models/Qwen2.5-Omni-3B
 image_max_pixels: 262144
 video_max_pixels: 16384
 trust_remote_code: true
+# audio_max_length: 4096
 
 ### method
 stage: sft
@@ -12,16 +13,16 @@ lora_rank: 8
 lora_target: all
 
 ### dataset
-dataset: mllm_demo,identity,alpaca_en_demo  # video: mllm_video_demo
+dataset: audio_stream  # video: mllm_video_demo  audio_stream
 template: qwen2_omni
-cutoff_len: 2048
+cutoff_len: 5120
 max_samples: 1000
 overwrite_cache: true
-preprocessing_num_workers: 16
-dataloader_num_workers: 4
+preprocessing_num_workers: 1
+dataloader_num_workers: 1
 
 ### output
-output_dir: /nfs1/chain/llm_models/Qwen2.5-Omni-3B_lora_sft
+output_dir: /nfs1/chain/llm_models/Qwen2.5-Omni-3B_lora_audio
 logging_steps: 10
 save_steps: 500
 plot_loss: true

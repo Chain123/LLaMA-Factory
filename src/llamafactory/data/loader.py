@@ -260,6 +260,7 @@ def _get_preprocessed_dataset(
         remove_columns=column_names,
         **kwargs,
     )
+    # print("Processed step1: \n", next(iter(dataset)))
 
     if training_args.should_log:
         try:
@@ -310,11 +311,17 @@ def get_dataset(
             stage,
             return_dict=data_args.eval_on_each_dataset,
         )
-
+    # print raw dataset example
+    print("Original example: ")
+    print(next(iter(dataset)))
     with training_args.main_process_first(desc="pre-process dataset", local=(not data_args.data_shared_file_system)):
         dataset = _get_preprocessed_dataset(
             dataset, data_args, training_args, stage, template, tokenizer, processor, is_eval=False
         )
+        # print processed dataset example
+        print("Prepeocessed example: ")
+        print(next(iter(dataset)))
+
         if isinstance(eval_dataset, dict):
             for eval_name, eval_data in eval_dataset.items():
                 eval_dataset[eval_name] = _get_preprocessed_dataset(
